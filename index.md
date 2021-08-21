@@ -17,9 +17,9 @@ gallery:
 
 M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. ASdb: A System for Classifying Owners of Autonomous Systems. In ACM Internet Measurement Conference (IMC), 2021. 
 
-**Izhikevich, Katherine**. “[Quantum Computing Today.](https://issuu.com/journys7/docs/final_journys_11.1)” *Journal of Youths in Science*, vol. 11, no.1, 2020, pp. 23-25
+**Izhikevich, Katherine**. “[Quantum Computing Today.](https://issuu.com/journys7/docs/final_journys_11.1)” *Journal of Youths in Science*, vol. 11, no.1, 2020, pp. 23-25.
 
-**Izhikevich, Katherine**. “[Defying Physics: A Study of Ballet.](https://issuu.com/journys7/docs/10.2)” *Journal of Youths in Science*, vol. 10, no.2, 2019, pp. 12-15 
+**Izhikevich, Katherine**. “[Defying Physics: A Study of Ballet.](https://issuu.com/journys7/docs/10.2)” *Journal of Youths in Science*, vol. 10, no.2, 2019, pp. 12-15.
 
 * * *
 ## Lab Affiliations
@@ -31,7 +31,7 @@ Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucs
 (August 2020 - May 2021)
 
 Past Projects:
-* Classifying Autonomous Systems (Under Submission): Using machine learning and crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Liz Izhikevich, Zakir Durumeric).   
+* Classifying Autonomous Systems (see paper above): Using machine learning and crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Liz Izhikevich, Zakir Durumeric).
 
 * * *
 ## Awards
