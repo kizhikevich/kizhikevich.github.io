@@ -19,18 +19,15 @@ M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. ASdb: A System 
 * * *
 ## High School Publications 
 
-**Izhikevich, Katherine**. “Defying Physics: A Study of Ballet.” Journal of Youths in Science, vol. 10, no.2, 2019, pp. 12-15 [link] (https://issuu.com/journys7/docs/10.2)
+**Izhikevich, Katherine**. “Defying Physics: A Study of Ballet.” Journal of Youths in Science, vol. 10, no.2, 2019, pp. 12-15 [link](https://issuu.com/journys7/docs/10.2)
 
-**Izhikevich, Katherine**. “Quantum Computing Today.” Journal of Youths in Science, vol. 11, no.1, 2020, pp. 23-25 [link] (https://issuu.com/journys7/docs/final_journys_11.1)
+**Izhikevich, Katherine**. “Quantum Computing Today.” Journal of Youths in Science, vol. 11, no.1, 2020, pp. 23-25 [link](https://issuu.com/journys7/docs/final_journys_11.1)
 
 * * *
 ## Lab Affiliations
 
 
-
-
-Current Projects:
-* Studying how underreppresented minorities, women, and transfer students experience their first REU (Research Experience for Undergraduates) at UCSD
+Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) on studying how underreppresented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD.
 
 Past Projects:
 * Classifying Autonomous Systems (Under Submission): Using machine learning and crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Liz Izhikevich, Zakir Durumeric).   
