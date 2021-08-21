@@ -7,8 +7,8 @@ gallery:
   - image_path: /assets/ski.jpg
   - image_path: /assets/grad.jpg
   - image_path: /assets/budapest.jpg
-  - image_path: /assets/sapporo.jpg
-  - image_path: /assets/tokyo.jpg
+  - image_path: /assets/hike.jpg
+  - image_path: /assets/rodin.jpg
 
 ---
 
