@@ -16,9 +16,6 @@ gallery:
 
 M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. ASdb: A System for Classifying Owners of Autonomous Systems. In ACM Internet Measurement Conference (IMC), 2021. 
 
-* * *
-## High School Publications 
-
 **Izhikevich, Katherine**. “Defying Physics: A Study of Ballet.” Journal of Youths in Science, vol. 10, no.2, 2019, pp. 12-15 [link](https://issuu.com/journys7/docs/10.2)
 
 **Izhikevich, Katherine**. “Quantum Computing Today.” Journal of Youths in Science, vol. 11, no.1, 2020, pp. 23-25 [link](https://issuu.com/journys7/docs/final_journys_11.1)
