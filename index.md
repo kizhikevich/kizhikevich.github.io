@@ -2,12 +2,12 @@
 layout: default
 
 gallery:
-#  - image_path: /assets/img/hike.jpeg
-#  - image_path: /assets/img/kayak.jpeg
-#  - image_path: /assets/img/ski.jpeg
- # - image_path: /assets/img/IMG_5518.jpeg
-  #- image_path: /assets/img/IMG_1722.jpeg
-  #- image_path: /assets/img/IMG_0834.jpeg
+  - image_path: sapporo.jpeg
+  - image_path: beaujolais.jpg
+  - image_path: ski.jpeg
+  - image_path: budapest.jpeg
+  - image_path: grad.jpeg
+  - image_path: tokyo.jpg
 
 ---
 
@@ -76,4 +76,4 @@ Tutor (Torrey Pines High School):
 
 * * *
 ## Adventures
-
+{% include gallery layout='third' %}
