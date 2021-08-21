@@ -44,8 +44,8 @@ Past Projects:
 
 ## Notable High School Awards
 
-* Torrey Pines High School Math Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4 students out of senior year class of about 650 students)
-* Torrey Pines High School English Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4 students out of senior year class of about 650 students)
+* Torrey Pines High School Math Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4 students out of the 2020 senior year class of about 650 students)
+* Torrey Pines High School English Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4 students out of the 2020 senior year class of about 650 students)
 * Torrey Pines High School Falcon Alumni Scholar (awarded to 2 students)
 
 Under my leadership (Editor-in-Chief 2019-2020) for the Journal of Youths in Science: 
