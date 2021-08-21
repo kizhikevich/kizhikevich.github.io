@@ -2,11 +2,11 @@
 layout: default
 
 gallery:
-  
-  - image_path: /assets/beaujolais.jpg
+
+  - image_path: /assets/budapest.jpg
   - image_path: /assets/ski.jpg
   - image_path: /assets/grad.jpg
-  - image_path: /assets/budapest.jpg
+  - image_path: /assets/beaujolaisLG.jpg
   - image_path: /assets/hike.jpg
   - image_path: /assets/rodin.jpg
 
