@@ -26,7 +26,7 @@ M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. ASdb: A System 
 
 Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) on studying how under-reppresented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD.
 
-[STANFORD EMPIRICAL SECURITY RESEARCH GROUP](https://esrg.stanford.edu) 
+[Stanford Empirical Security Research Group](https://esrg.stanford.edu) 
 (August 2020 - May 2021)
 
 Past Projects:
