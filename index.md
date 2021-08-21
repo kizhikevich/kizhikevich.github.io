@@ -19,17 +19,14 @@ M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. ASdb: A System 
 * * *
 ## High School Publications 
 
-**Izhikevich, Katherine**. “Defying Physics: A Study of Ballet.” Journal of Youths in Science, vol. 10, no.2, 2019, pp. 12-15 (link)
+**Izhikevich, Katherine**. “Defying Physics: A Study of Ballet.” Journal of Youths in Science, vol. 10, no.2, 2019, pp. 12-15 [link] (https://issuu.com/journys7/docs/10.2)
 
-**Izhikevich, Katherine**. “Quantum Computing Today.” Journal of Youths in Science, vol. 11, no.1, 2020, pp. 23-25 (link)
+**Izhikevich, Katherine**. “Quantum Computing Today.” Journal of Youths in Science, vol. 11, no.1, 2020, pp. 23-25 [link] (https://issuu.com/journys7/docs/final_journys_11.1)
 
 * * *
 ## Lab Affiliations
 
 
-
-[STANFORD EMPIRICAL SECURITY RESEARCH GROUP](https://esrg.stanford.edu) 
-(August 2020 - May 2021)
 
 
 Current Projects:
@@ -38,6 +35,8 @@ Current Projects:
 Past Projects:
 * Classifying Autonomous Systems (Under Submission): Using machine learning and crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Liz Izhikevich, Zakir Durumeric).   
 
+[STANFORD EMPIRICAL SECURITY RESEARCH GROUP](https://esrg.stanford.edu) 
+(August 2020 - May 2021)
 
 * * *
 ## Awards
@@ -72,7 +71,7 @@ Instructional Assistant (at UC San Diego):
 Tutor (Torrey Pines High School):
 
 * Private/group tutor for all levels of mathematics/physics/chemistry/programming (2016-2020)
-* 1 of five official peer tutors for over 2,000 students (2018-2020)
+* 1 of 5 official peer tutors for over 2,000 students (2018-2020)
 
 * * *
 ## Extracurriculars / Mentoring
