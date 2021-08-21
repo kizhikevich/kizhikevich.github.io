@@ -50,11 +50,12 @@ Past Projects:
 
 Under my leadership (Editor-in-Chief 2019-2020) for the Journal of Youths in Science: 
 
-* American Scholastic Press Association, First Place with Special Merit 2018
-* American Scholastic Press Association, Outstanding Overall Art 2018
-*	American Scholastic Press Association, First Place 2019
-*	American Scholastic Press Association, Outstanding Theme 2019
+* 2018 American Scholastic Press Association, First Place with Special Merit
+* 2018 American Scholastic Press Association, Outstanding Overall Art
+*	2019 American Scholastic Press Association, First Place
+*	2019 American Scholastic Press Association, Outstanding Theme
 
+Other high school awards: AP Scholar Award (2018), AP Scholar with Distinction Award (2019, 2020)
 
 * * *
 ## Teaching
