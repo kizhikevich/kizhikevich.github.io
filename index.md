@@ -76,5 +76,5 @@ Tutor (Torrey Pines High School):
 * Mentor for EmpowHer, an all-female high school Hackathon
 
 * * *
-## Pictures
+## Photo Gallery
 {% include gallery layout='third' %}
