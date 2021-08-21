@@ -71,7 +71,8 @@ Instructional Assistant (at UC San Diego):
 
 Tutor (Torrey Pines High School):
 
-* Private/group tutor for all levels of mathematics/physics/chemistry/programming
+* Private/group tutor for all levels of mathematics/physics/chemistry/programming (2016-2020)
+* 1 of five official peer tutors for over 2,000 students (2018-2020)
 
 * * *
 ## Extracurriculars / Mentoring
