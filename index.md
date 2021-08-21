@@ -2,11 +2,11 @@
 layout: default
 
 gallery:
-  - image_path: sapporo.jpeg
+  - image_path: sapporo.jpg
   - image_path: beaujolais.jpg
-  - image_path: ski.jpeg
-  - image_path: budapest.jpeg
-  - image_path: grad.jpeg
+  - image_path: ski.jpg
+  - image_path: budapest.jpg
+  - image_path: grad.jpg
   - image_path: tokyo.jpg
 
 ---
