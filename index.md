@@ -14,94 +14,71 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
-M. Ziv, **L. Izhikevich**, K. Ruth, K. Izhikevich, Z. Durumeric. ASdb: A System for Classifying Owners of Autonomous Systems. In ACM Internet Measurement Conference (IMC), 2021. 
-
-J. Cable\*, D. Gregory\*, **L. Izhikevich\***, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). In Proceedings of the 24th ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2021. 
-
-**L. Izhikevich**, R. Teixeira, Z. Durumeric. [LZR: Identifying Unexpected Internet Services](/assets/papers/lzr.pdf). In 30th USENIX Security Symposium, 2021. 
-
-G. Wan, **L. Izhikevich**, D. Adrian, K. Yoshioka, R. Holz, C. Rossow, Z. Durumeric. [On the Origin of Scanning: The Impact of Location on Internet-Wide Scans](/assets/papers/IMC20-OnTheOriginOfScanning.pdf). In ACM Internet Measurement Conference (IMC), 2020. 
-
-Ao, L., **Izhikevich, L.**, Voelker, G., Porter, G. [Sprocket: A Serverless Video Processing Framework for the Cloud](/assets/papers/SOCC18-sprocket.pdf). In Proceedings of the ninth ACM Symposium on Cloud Computing (Socc’18), Carlsbad, Calif, October 2018.
-
-More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)
+M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. ASdb: A System for Classifying Owners of Autonomous Systems. In ACM Internet Measurement Conference (IMC), 2021. 
 
 * * *
-## Other Publications
+## High School Publications 
 
-**Izhikevich, E.** [Building and Breaking Burst-Parallel Systems](https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf). Masters Thesis. UC San Diego, 2018. 
+**Izhikevich, Katherine**. “Defying Physics: A Study of Ballet.” Journal of Youths in Science, vol. 10, no.2, 2019, pp. 12-15 (link)
 
-Moshiri, N., **Izhikevich L.** [Design and Analysis of Data Structures](https://www.amazon.com/Design-Analysis-Structures-Niema-Moshiri/dp/1981017232). 2018. Print.
-
-Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/promo). Stepik, 2016. Online.
-
-**L.Izhikevich**, R.Gao, E.Peterson, B.Voytek. [Measuring the average power of neural oscillations](https://www.biorxiv.org/content/biorxiv/early/2018/10/22/441626.full.pdf). bioRxiv 441626; Online.
-
-**L.Izhikevich**, E.Peterson, B.Voytek. [Neural oscillatory power is not Gaussian distributed across time](/assets/papers/SfN16_IzhikevichPosterAbstract.pdf). Program No. 271.03. 2016 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2016. Online. 
-
-* * *
-## Open Source
-[LZR](https://github.com/stanford-esrg/lzr): LZR efficiently detects and fingerprint unexpected services running on unexpected ports. LZR can detect up 18 unique protocols simoultaneously with just two extra packets and can fingerprint over 35 different protocols.
-
-[Stratosphere](https://github.com/stanford-esrg/stratosphere): Stratosphere uses password generation algorithms to discover publicly accessible cloud storage buckets.
+**Izhikevich, Katherine**. “Quantum Computing Today.” Journal of Youths in Science, vol. 11, no.1, 2020, pp. 23-25 (link)
 
 * * *
 ## Lab Affiliations
 
-[EMPIRICAL SECURITY RESEARCH GROUP](https://esrg.stanford.edu) 
-(January 2019 - Present)
 
-Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer networking and security.
+
+[STANFORD EMPIRICAL SECURITY RESEARCH GROUP](https://esrg.stanford.edu) 
+(August 2020 - May 2021)
+
 
 Current Projects:
-* Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity
-* Classifying Autonomous Systems (Under Submission): Using machine learning and crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Katherine Izhikevich).   
-* The Security of Remote-Exam-Taking Software: Investigating vulnerabilities and privacy implications for students required to use such software (Collaborators: Luca Pistor, Nathan Bahk, Kimberly Ruth)
-* Understanding Darknet Activity Across Different Networks (Collaborators: Merit Networks, Greynoise)
+* Studying how underreppresented minorities, women, and transfer students experience their first REU (Research Experience for Undergraduates) at UCSD
 
-
-[SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu) 
-(July 2017- September 2018)
-
-Collaborated with Prof. [Geoff Voelker](http://www.cs.ucsd.edu/~voelker) and Prof. [George Porter](http://www.cs.ucsd.edu/~gmporter/) on serverless distributed systems and security related research.
-
-[VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE](https://voyteklab.com) 
-(Jan 2015 – September 2018)
-
-Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](http://www.robotpuggle.com) and [Richard Gao](http://www.rdgao.com) on electrophysiological data analysis.
+Past Projects:
+* Classifying Autonomous Systems (Under Submission): Using machine learning and crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Liz Izhikevich, Zakir Durumeric).   
 
 
 * * *
 ## Awards
 
-* Undergraduate Award for Excellence in Teaching @UC San Diego
-* NSF Graduate Research Fellowship 
-* Stanford Graduate Fellowship in Science and Engineering
-* Ledell Family Endowed Research Scholarship for Science and Engineering @UC San Diego
-* Warren Undergraduate Research Scholarship Recipient @UC San Diego
-* UCSD Big Pixel Initiative Hackathon Winner
-* Teradata Datathon Finalist
-* Warren Undergraduate Research Scholarship Recipient @UC San Diego
-* Yelp Dataset Challenge Grand Prize Winner
-* Society for Women Engineers Admiral Grace Murray Hopper Scholarship Recipient
+*	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science
+*	Warren College Honors Society
+*	Provost Honors
+
+* * *
+
+## Notable High School Awards
+
+* Torrey Pines High School Math Department Recognition Award for Achievement, Dedication, and Excellence
+* Torrey Pines High School English Department Recognition Award for Achievement, Dedication, and Excellence
+* Torrey Pines High School Falcon Alumni Scholar
+
+Under my leadership (Editor-in-Chief 2019-2020) for the Journal of Youths in Science: 
+
+* American Scholastic Press Association, First Place with Special Merit 
+* American Scholastic Press Association, Outstanding Overall Art
+*	American Scholastic Press Association, First Place
+*	American Scholastic Press Association, Outstanding Theme
+
 
 * * *
 ## Teaching
 
 Instructional Assistant (at UC San Diego):
 
-* CSE100: Advanced Data Structures in C++ (assisted 4 times)
-* CSE8A: Introduction to Programming in Java, Part 1
-* CSE8B: Introduction to Programming in Java, Part 2
-* CSE12: Introduction to Data Structures
+* CSE100: Advanced Data Structures in C++ (Beginning Fall 2021)
 
+Tutor (Torrey Pines High School):
+
+* Private/group tutor for all levels of mathematics/physics/chemistry/programming
 
 * * *
-## In the News
+## Extracurriculars / Mentoring
 
-* [New technology encodes and processes video orders of magnitude faster than current methods](https://www.eurekalert.org/pub_releases/2018-10/uoc--nte102218.php)
-* [University Students Turn Satellite Images into Policy Analysis](http://jacobsschool.ucsd.edu/news/news_releases/release.sfe?id=1762)
-
+* Founding member of the Association for Women in Mathematics, UCSD undergraduate branch. Now the Vice President of the branch.
+*	Member of Women in Computing
+* Mentor for EmpowHer, an all-female high school Hackathon
 
 * * *
 ## Adventures
