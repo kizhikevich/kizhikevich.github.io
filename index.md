@@ -75,10 +75,12 @@ Tutor (Torrey Pines High School):
 * Founding member of the *Association for Women in Mathematics*, UCSD undergraduate branch. Now the Vice President of the branch.
 *	Member of *Women in Computing*
 * Mentor for *EmpowHer*, an all-female high school Hackathon
+
 * * *
 ## About Me
 
 I am an undergraduate student at UC San Diego studying Mathematics - Computer Science. I am currently exploring different labs within the computer science and bioinformatics department at the Jacobs School of Engineering. My hobbies include reading, writing, dancing, feeding goats, hiking, swimming, and traveling. You can find my sister's, Liz Izhikevich's, website [here](https://lizizhikevich.github.io/).
+
 * * *
 ## Photo Gallery
 {% include gallery layout='third' %}
