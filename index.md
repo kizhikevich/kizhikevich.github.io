@@ -36,9 +36,9 @@ Past Projects:
 * * *
 ## Awards
 
-*	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science
-*	Warren College Honors Society
-*	Provost Honors
+*	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021)
+*	Warren College Honors Society (2020-Present)
+*	Provost Honors (2020-Present)
 
 * * *
 
