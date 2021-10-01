@@ -15,7 +15,7 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
-M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. ASdb: A System for Classifying Owners of Autonomous Systems. In ACM Internet Measurement Conference (IMC), 2021. 
+M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
 
 **Izhikevich, Katherine**. “[Quantum Computing Today.](https://issuu.com/journys7/docs/final_journys_11.1)” *Journal of Youths in Science*, vol. 11, no.1, 2020, pp. 23-25.
 
