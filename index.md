@@ -24,7 +24,7 @@ M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. ASdb: A System 
 * * *
 ## Lab Affiliations
 
-Collaborating with Prof. [Niema Moshiri](https://niema.net), Prof. [Joel Wertheim](https://profiles.ucsd.edu/joel.wertheim), and PhD student Jonathan Pekar on the phylogenetics of early sars-cov-2 (August 2021 - Present)
+Collaborating with Prof. [Niema Moshiri](https://niema.net), Prof. [Joel Wertheim](https://profiles.ucsd.edu/joel.wertheim), and PhD student [Jonathan Pekar](https://dbmi.ucsd.edu/people/students.html#Jonathan-Pekar) on the phylogenetics of early sars-cov-2 (August 2021 - Present)
 
 Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) on studying how under-represented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD (June 2021 - Present)
 
