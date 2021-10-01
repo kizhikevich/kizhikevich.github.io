@@ -63,7 +63,7 @@ Other high school awards: AP Scholar Award (2018), AP Scholar with Distinction A
 
 Instructional Assistant (at UC San Diego):
 
-* CSE100: Advanced Data Structures in C++ (Beginning Fall 2021)
+* CSE100: Advanced Data Structures in C++ (Fall 2021)
 
 Tutor (Torrey Pines High School):
 
