@@ -31,8 +31,6 @@ Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucs
 [Stanford Empirical Security Research Group](https://esrg.stanford.edu) 
 (August 2020 - May 2021)
 
-Past Projects:
-* Classifying Autonomous Systems (see paper above): Using machine learning and crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Liz Izhikevich, Zakir Durumeric).
 
 * * *
 ## Awards
