@@ -21,6 +21,8 @@ M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. [ASdb: A System
 
 **Izhikevich, Katherine**. “[Defying Physics: A Study of Ballet.](https://issuu.com/journys7/docs/10.2)” *Journal of Youths in Science*, vol. 10, no.2, 2019, pp. 12-15.
 
+See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
+
 * * *
 ## Lab Affiliations
 
