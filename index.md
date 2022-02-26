@@ -62,7 +62,7 @@ Tutor (Torrey Pines High School):
 
 ## In the news
 
-* New Research Points to Wuhan Market as Pandemic Origin[https://www.nytimes.com/interactive/2022/02/26/science/covid-virus-wuhan-origins.html]
+* [New Research Points to Wuhan Market as Pandemic Origin](https://www.nytimes.com/interactive/2022/02/26/science/covid-virus-wuhan-origins.html)
 
 * * *
 
