@@ -48,6 +48,23 @@ Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim]
 *	Provost Honors (2020-Present)
 
 * * *
+## Teaching
+
+Instructional Assistant (at UC San Diego):
+
+* CSE100: Advanced Data Structures in C++ (Fall 2021, Winter 2022)
+
+Tutor (Torrey Pines High School):
+
+* 1 of 5 TPHS Peer Tutors for over 2,000 students (2018-2020)
+* Private/group tutor for all levels of mathematics/physics/chemistry/programming (2016-2020)
+* * * 
+
+## In the news
+
+* New Research Points to Wuhan Market as Pandemic Origin[https://www.nytimes.com/interactive/2022/02/26/science/covid-virus-wuhan-origins.html]
+
+* * *
 
 ## Notable High School Awards
 
@@ -65,19 +82,7 @@ Under my leadership (Section Editor 2018, Editor-in-Chief 2019, 2020) for the *J
 Other high school awards: AP Scholar Award (2018), AP Scholar with Distinction Award (2019, 2020)
 
 * * *
-## Teaching
 
-Instructional Assistant (at UC San Diego):
-
-* CSE100: Advanced Data Structures in C++ (Fall 2021, Winter 2022)
-
-Tutor (Torrey Pines High School):
-
-* 1 of 5 TPHS Peer Tutors for over 2,000 students (2018-2020)
-* Private/group tutor for all levels of mathematics/physics/chemistry/programming (2016-2020)
-
-
-* * *
 ## Extracurriculars / Mentoring
 
 * Founding member of the *Association for Women in Mathematics*, UCSD undergraduate branch. Now the Vice President of the branch.
