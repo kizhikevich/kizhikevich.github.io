@@ -25,7 +25,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 * * * 
 ## Under Submission
 
-Pekar, Jonathan E., Magee, Andrew, Parker, Edyth, Moshiri, Niema, **Izhikevich, Katherine**, Havens, Jennifer L., Gangavarapu, Karthik, Malpica Serrano, Lorena M., Crits-Christoph, Alexander, Matteson, Nathaniel L., Zeller, Mark, Levy, Joshua I., Wang, Jade C., Hughes, Scott, Lee, Jungmin, Park, Heedo, Park, Man-Seong, Ching Zi Yan, Katherine, Tzer Pin Lin, Raymond, … Wertheim, Joel O. (2022). SARS-CoV-2 emergence very likely resulted from at least two zoonotic events. Zenodo. [https://doi.org/10.5281/zenodo.6291628](https://doi.org/10.5281/zenodo.6291628)
+Pekar, Jonathan E.; Magee, Andrew; Parker, Edyth; Moshiri, Niema; **Izhikevich, Katherine**; Havens, Jennifer L.; Gangavarapu, Karthik; Malpica Serrano, Lorena M.; Crits-Christoph, Alexander; Matteson, Nathaniel L.; Zeller, Mark; Levy, Joshua I.; Wang, Jade C.; Hughes, Scott; Lee, Jungmin; Park, Heedo; Park, Man-Seong; Ching Zi Yan, Katherine; Tzer Pin Lin, Raymond; Mat Isa, Mohd Noor; Muhammad Noor, Yusuf; Vasylyeva, Tetyana I.; Garry, Robert F.; Holmes, Edward C.; Rambaut, Andrew; Suchard, Marc A.; Andersen, Kristian G.; Worobey, Michael; Wertheim, Joel O. (2022). SARS-CoV-2 emergence very likely resulted from at least two zoonotic events. Zenodo. [https://doi.org/10.5281/zenodo.6291628](https://doi.org/10.5281/zenodo.6291628)
 
 * * *
 ## Lab Affiliations
