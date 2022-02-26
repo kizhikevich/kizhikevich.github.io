@@ -22,6 +22,10 @@ M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. [ASdb: A System
 **Izhikevich, Katherine**. “[Defying Physics: A Study of Ballet.](https://issuu.com/journys7/docs/10.2)” *Journal of Youths in Science*, vol. 10, no.2, 2019, pp. 12-15.
 
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
+* * * 
+## Under submission
+
+Pekar, Jonathan E., Magee, Andrew, Parker, Edyth, Moshiri, Niema, **Izhikevich, Katherine**, Havens, Jennifer L., Gangavarapu, Karthik, Malpica Serrano, Lorena M., Crits-Christoph, Alexander, Matteson, Nathaniel L., Zeller, Mark, Levy, Joshua I., Wang, Jade C., Hughes, Scott, Lee, Jungmin, Park, Heedo, Park, Man-Seong, Ching Zi Yan, Katherine, Tzer Pin Lin, Raymond, … Wertheim, Joel O. (2022). SARS-CoV-2 emergence very likely resulted from at least two zoonotic events. Zenodo. [https://doi.org/10.5281/zenodo.6291628](https://doi.org/10.5281/zenodo.6291628)
 
 * * *
 ## Lab Affiliations
