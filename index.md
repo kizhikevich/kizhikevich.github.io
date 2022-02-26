@@ -39,7 +39,6 @@ Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim]
 [Stanford Empirical Security Research Group](https://esrg.stanford.edu) 
 (August 2020 - May 2021)
 
-
 * * *
 ## Awards
 
@@ -58,14 +57,13 @@ Tutor (Torrey Pines High School):
 
 * 1 of 5 TPHS Peer Tutors for over 2,000 students (2018-2020)
 * Private/group tutor for all levels of mathematics/physics/chemistry/programming (2016-2020)
-* * * 
 
+* * * 
 ## In the news
 
 * [New Research Points to Wuhan Market as Pandemic Origin](https://www.nytimes.com/interactive/2022/02/26/science/covid-virus-wuhan-origins.html)
 
 * * *
-
 ## Notable High School Awards
 
 * Torrey Pines High School Math Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4 students out of the 2020 senior year class of about 650 students)
@@ -82,7 +80,6 @@ Under my leadership (Section Editor 2018, Editor-in-Chief 2019, 2020) for the *J
 Other high school awards: AP Scholar Award (2018), AP Scholar with Distinction Award (2019, 2020)
 
 * * *
-
 ## Extracurriculars / Mentoring
 
 * Founding member of the *Association for Women in Mathematics*, UCSD undergraduate branch. Now the Vice President of the branch.
