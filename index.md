@@ -62,6 +62,8 @@ Tutor (Torrey Pines High School):
 ## In the news
 
 * [New Research Points to Wuhan Market as Pandemic Origin](https://www.nytimes.com/interactive/2022/02/26/science/covid-virus-wuhan-origins.html)
+* [Wuhan market was epicentre of pandemic’s start, studies suggest](https://www.nature.com/articles/d41586-022-00584-8)
+* [Studies offer further evidence that the coronavirus pandemic began in animals in Wuhan market](https://www.cnn.com/2022/02/26/health/coronavirus-origins-studies/index.html)
 
 * * *
 ## Notable High School Awards
