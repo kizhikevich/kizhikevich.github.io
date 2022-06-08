@@ -34,7 +34,7 @@ Pekar, Jonathan E.; Magee, Andrew; Parker, Edyth; Moshiri, Niema; **Izhikevich, 
 
 Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/), Prof. [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/), and Prof. [Stefan Savage](https://cseweb.ucsd.edu/~savage/) on empirically studying the security risks of serverless storage in the cloud (December 2021 - Present)
 
-Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) and Kyeling Ong on studying how under-represented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD (June 2021 - March 2022)
+Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) and [Kyeling Ong](https://www.linkedin.com/in/kyeling) on studying how under-represented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD (June 2021 - March 2022)
 
 Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim](https://profiles.ucsd.edu/joel.wertheim), and PhD student [Jonathan Pekar](https://dbmi.ucsd.edu/people/students.html#Jonathan-Pekar) on the phylogenetics of early SARS-CoV-2 by simulating epidemics to determine how transmission dynamics affect the phylogenetic structure of SARS-CoV-2 and viral outbreaks more generally (August 2021 - February 2022)
 
