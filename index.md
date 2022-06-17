@@ -93,7 +93,7 @@ Other high school awards: AP Scholar Award (2018), AP Scholar with Distinction A
 * * *
 ## About Me
 
-I am an undergraduate student at UC San Diego studying Mathematics - Computer Science. I am also a 2022 incoming Masters student in Computer Science and Engineering at the Jacobs School of Engineering. My hobbies include reading, writing, dancing, feeding goats, hiking, swimming, and traveling. I also occasionally star in [parody music videos](https://www.youtube.com/watch?v=oZgwHft8N5Q). You can find my sister's, Liz Izhikevich, website [here](https://lizizhikevich.github.io/).
+I am a Masters student in Computer Science and Engineering at the Jacobs School of Engineering at UC San Diego. I recieved my B.S. in Mathematics-Computer Science at UCSD from 2020-2022. My hobbies include reading, writing, dancing, feeding goats, hiking, swimming, and traveling. I also occasionally star in [parody music videos](https://www.youtube.com/watch?v=oZgwHft8N5Q). You can find my sister's, Liz Izhikevich, website [here](https://lizizhikevich.github.io/).
 
 * * *
 ## Photo Gallery
