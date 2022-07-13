@@ -15,7 +15,7 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
-**Katherine Izhikevich**, Kyeling Ong, and Christine Alvarado. 2022. [Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience]() In Proceedings of the 2022 ACM Conference on International Computing Education Research V.1 (ICER 2022), 2022
+**Katherine Izhikevich**, Kyeling Ong, and Christine Alvarado. 2022. [Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience](/assets/papers/groupdynamicsicer2022.pdf) In Proceedings of the 2022 ACM Conference on International Computing Education Research V.1 (ICER 2022), 2022
 
 M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
 
