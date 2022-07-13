@@ -44,9 +44,13 @@ Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim]
 * * *
 ## Awards
 
-*	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021)
-*	Warren College Honors Society (2020-Present)
-*	Provost Honors (2020-Present)
+* Travel grant recipient to SIGCOMM 2022 in Amsterdam, Netherlands
+*	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
+*	Warren College Honors Society (Undergrad)
+*	Provost Honors (Undergrad)
+* Torrey Pines High School Math Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4 students out of the 2020 senior year class of about 650 students)
+* Torrey Pines High School English Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4 students out of the 2020 senior year class of about 650 students)
+* Torrey Pines High School Falcon Alumni Scholar (awarded to 2 students out of the 2020 senior year class of about 650 students)
 
 * * *
 ## Teaching
@@ -68,22 +72,7 @@ Tutor (Torrey Pines High School):
 * [Studies offer further evidence that the coronavirus pandemic began in animals in Wuhan market](https://www.cnn.com/2022/02/26/health/coronavirus-origins-studies/index.html)
 
 * * *
-## Notable High School Awards
 
-* Torrey Pines High School Math Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4 students out of the 2020 senior year class of about 650 students)
-* Torrey Pines High School English Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4 students out of the 2020 senior year class of about 650 students)
-* Torrey Pines High School Falcon Alumni Scholar (awarded to 2 students)
-
-Under my leadership (Section Editor 2018, Editor-in-Chief 2019, 2020) for the *Journal of Youths in Science*: 
-
-* 2018 American Scholastic Press Association, First Place with Special Merit
-* 2018 American Scholastic Press Association, Outstanding Overall Art
-*	2019 American Scholastic Press Association, First Place
-*	2019 American Scholastic Press Association, Outstanding Theme
-
-Other high school awards: AP Scholar Award (2018), AP Scholar with Distinction Award (2019, 2020)
-
-* * *
 ## Extracurriculars / Mentoring
 
 * Founding member of the *Association for Women in Mathematics*, UCSD undergraduate branch. Now the Vice President of the branch.
@@ -93,7 +82,7 @@ Other high school awards: AP Scholar Award (2018), AP Scholar with Distinction A
 * * *
 ## About Me
 
-I am a Masters student in Computer Science and Engineering at the Jacobs School of Engineering at UC San Diego. I received my B.S. in Mathematics-Computer Science at UCSD from 2020-2022. I graduated from Torrey Pines High School in 2020. My hobbies include reading, writing, dancing, feeding goats, hiking, swimming, and traveling. I also occasionally star in [parody music videos](https://www.youtube.com/watch?v=oZgwHft8N5Q). You can find my sister's, Liz Izhikevich, website [here](https://lizizhikevich.github.io/).
+I am a Masters student in Computer Science and Engineering at the Jacobs School of Engineering at UC San Diego. I received my B.S. in Mathematics-Computer Science at UCSD from 2020-2022. I graduated from Torrey Pines High School in 2020. My hobbies include reading, writing, dancing, feeding goats, hiking, swimming, and traveling. You can find my sister's, Liz Izhikevich, website [here](https://lizizhikevich.github.io/).
 
 * * *
 ## Photo Gallery
