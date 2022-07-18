@@ -73,14 +73,14 @@ Tutor (Torrey Pines High School):
 
 ## Extracurriculars / Mentoring
 
-* Founding member of the *Association for Women in Mathematics*, UCSD undergraduate branch. Now the Vice President of the branch.
-*	Member of *Women in Computing*
-* Mentor for *EmpowHer*, an all-female high school Hackathon
+* Founding member of the *Association for Women in Mathematics*, UCSD undergraduate branch.
+*	Member of *Women in Computing*.
+* Mentor for *EmpowHer*, an all-female high school Hackathon.
 
 * * *
 ## About Me
 
-I am a Masters student in Computer Science and Engineering at the Jacobs School of Engineering at UC San Diego. I received my B.S. in Mathematics-Computer Science at UCSD from 2020-2022. I graduated from Torrey Pines High School in 2020. My hobbies include reading, writing, dancing, feeding goats, hiking, swimming, and traveling. You can find my sister's, Liz Izhikevich, website [here](https://lizizhikevich.github.io/).
+I am a Masters student in Computer Science and Engineering at the Jacobs School of Engineering at UC San Diego. I received my B.S. in Mathematics-Computer Science at UCSD from 2020-2022. My hobbies include reading, writing, dancing, feeding goats, hiking, swimming, and traveling. You can find my sister's, Liz Izhikevich, website [here](https://lizizhikevich.github.io/).
 
 * * *
 ## Photo Gallery
