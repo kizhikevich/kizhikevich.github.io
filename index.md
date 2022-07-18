@@ -15,6 +15,8 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
+Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu K, Malpica Serrano LM, Crits-Christoph A, Matteson NL, Zeller M, Levy JI, Wang JC, Hughes S, Lee J, Park H, Park MS, Ching Zi Yan K, Tzer Pin Lin R, Mat Isa MN, Muhammad Noor Y, Vasylyeva TI, Garry RF, Holmes EC, Rambaut A, Suchard MA, Andersen KG, Worobey M, Wertheim JO (2022). "SARS-CoV-2 emergence very likely resulted from at least two zoonotic events." *Science*. In Press. Preprint doi:10.5281/zenodo.6291627
+
 **Katherine Izhikevich**, Kyeling Ong, and Christine Alvarado. 2022. [Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience](/assets/papers/groupdynamicsicer2022.pdf) In Proceedings of the 2022 ACM Conference on International Computing Education Research V.1 (ICER 2022), 2022
 
 M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
@@ -24,10 +26,6 @@ M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. [ASdb: A System
 **Izhikevich, Katherine**. “[Defying Physics: A Study of Ballet.](https://issuu.com/journys7/docs/10.2)” *Journal of Youths in Science*, vol. 10, no.2, 2019, pp. 12-15.
 
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
-* * * 
-## Under Submission
-
-Pekar, Jonathan E.; Magee, Andrew; Parker, Edyth; Moshiri, Niema; **Izhikevich, Katherine**; Havens, Jennifer L.; Gangavarapu, Karthik; Malpica Serrano, Lorena M.; Crits-Christoph, Alexander; Matteson, Nathaniel L.; Zeller, Mark; Levy, Joshua I.; Wang, Jade C.; Hughes, Scott; Lee, Jungmin; Park, Heedo; Park, Man-Seong; Ching Zi Yan, Katherine; Tzer Pin Lin, Raymond; Mat Isa, Mohd Noor; Muhammad Noor, Yusuf; Vasylyeva, Tetyana I.; Garry, Robert F.; Holmes, Edward C.; Rambaut, Andrew; Suchard, Marc A.; Andersen, Kristian G.; Worobey, Michael; Wertheim, Joel O. (2022). SARS-CoV-2 emergence very likely resulted from at least two zoonotic events. Zenodo. [https://doi.org/10.5281/zenodo.6291628](https://doi.org/10.5281/zenodo.6291628)
 
 * * *
 ## Lab Affiliations
