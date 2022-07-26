@@ -15,7 +15,7 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
-Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu K, Malpica Serrano LM, Crits-Christoph A, Matteson NL, Zeller M, Levy JI, Wang JC, Hughes S, Lee J, Park H, Park MS, Ching Zi Yan K, Tzer Pin Lin R, Mat Isa MN, Muhammad Noor Y, Vasylyeva TI, Garry RF, Holmes EC, Rambaut A, Suchard MA, Andersen KG, Worobey M, Wertheim JO (2022). ["The molecular epidemiology of multiple zoonotic origins of SARS-CoV-2."](DOI: 10.1126/science.abp8337)*Science*. DOI: 10.1126/science.abp8337
+Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu K, Malpica Serrano LM, Crits-Christoph A, Matteson NL, Zeller M, Levy JI, Wang JC, Hughes S, Lee J, Park H, Park MS, Ching Zi Yan K, Tzer Pin Lin R, Mat Isa MN, Muhammad Noor Y, Vasylyeva TI, Garry RF, Holmes EC, Rambaut A, Suchard MA, Andersen KG, Worobey M, Wertheim JO (2022). ["The molecular epidemiology of multiple zoonotic origins of SARS-CoV-2."](https://www.science.org/doi/10.1126/science.abp8337) *Science*. DOI: 10.1126/science.abp8337
 
 **Katherine Izhikevich**, Kyeling Ong, and Christine Alvarado. 2022. [Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience.](/assets/papers/groupdynamicsicer2022.pdf) In Proceedings of the 2022 ACM Conference on International Computing Education Research V.1 (ICER 2022), 2022
 
