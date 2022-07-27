@@ -65,9 +65,12 @@ Tutor (Torrey Pines High School):
 * * * 
 ## In the news
 
-* [New Research Points to Wuhan Market as Pandemic Origin](https://www.nytimes.com/interactive/2022/02/26/science/covid-virus-wuhan-origins.html)
-* [Wuhan market was epicentre of pandemic’s start, studies suggest](https://www.nature.com/articles/d41586-022-00584-8)
-* [Studies offer further evidence that the coronavirus pandemic began in animals in Wuhan market](https://www.cnn.com/2022/02/26/health/coronavirus-origins-studies/index.html)
+* [CNN: New studies agree that animals sold at Wuhan market are most likely what started Covid-19 pandemic](https://www.cnn.com/2022/07/26/health/wuhan-market-covid-19/index.html)
+* [Washington Post: Scientists hone argument that coronavirus came from Wuhan market](https://www.washingtonpost.com/science/2022/07/26/coronavirus-origin-wuhan-market/)
+* [BBC: Covid origin studies say evidence points to Wuhan market](https://www.bbc.com/news/science-environment-62307383)
+* [NYTimes: New Research Points to Wuhan Market as Pandemic Origin](https://www.nytimes.com/interactive/2022/02/26/science/covid-virus-wuhan-origins.html)
+* [Nature: Wuhan market was epicentre of pandemic’s start, studies suggest](https://www.nature.com/articles/d41586-022-00584-8)
+* [CNN: Studies offer further evidence that the coronavirus pandemic began in animals in Wuhan market](https://www.cnn.com/2022/02/26/health/coronavirus-origins-studies/index.html)
 
 * * *
 
