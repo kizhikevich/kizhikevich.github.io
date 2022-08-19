@@ -65,6 +65,7 @@ Tutor (Torrey Pines High School):
 * * * 
 ## In the news
 
+* [Center for Networked Systems @ UCSD: Coronavirus Jumped to Humans at Least Twice at Wuhan Market in China](https://cns.ucsd.edu/coronavirus-jumped-to-humans-at-least-twice-at-wuhan-market-in-china/)
 * [CNN: New studies agree that animals sold at Wuhan market are most likely what started Covid-19 pandemic](https://www.cnn.com/2022/07/26/health/wuhan-market-covid-19/index.html)
 * [Washington Post: Scientists hone argument that coronavirus came from Wuhan market](https://www.washingtonpost.com/science/2022/07/26/coronavirus-origin-wuhan-market/)
 * [BBC: Covid origin studies say evidence points to Wuhan market](https://www.bbc.com/news/science-environment-62307383)
