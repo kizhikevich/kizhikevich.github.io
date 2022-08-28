@@ -30,6 +30,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 * * *
 ## Lab Affiliations
 
+[Center for Networked Systems](https://cns.ucsd.edu/) / [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). (December 2021 - Present)
+
 Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/), Prof. [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/), and Prof. [Stefan Savage](https://cseweb.ucsd.edu/~savage/) on empirically studying the security risks of serverless storage in the cloud. (December 2021 - Present)
 
 Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) and [Kyeling Ong](https://www.linkedin.com/in/kyeling) on studying how under-represented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD. See ICER '22 publication above. (June 2021 - March 2022)
