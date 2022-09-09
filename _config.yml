@@ -2,3 +2,5 @@ title: Katherine Izhikevich
 logo: portugalProfile.png
 google_analytics: UA-166335705-2
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
