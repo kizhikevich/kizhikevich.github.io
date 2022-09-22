@@ -43,7 +43,7 @@ Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim]
 
 * * *
 ## Awards
-
+* Travel grant recipient to IMC 2022 in Nice, France
 * Travel grant recipient to SIGCOMM 2022 in Amsterdam, Netherlands
 *	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
 *	Warren College Honors Society (Undergrad)
