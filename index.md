@@ -32,6 +32,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 
 [Center for Networked Systems](https://cns.ucsd.edu/) / [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). (December 2021 - Present)
 
+Collaborating with Postdoc [Grant Ho](https://cseweb.ucsd.edu/~grho/), Prof. [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/), and Prof. [Stefan Savage](https://cseweb.ucsd.edu/~savage/) to detect reconnaissance activities on Active Directory accounts. (September 2022 - Present)
+
 Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/), Prof. [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/), and Prof. [Stefan Savage](https://cseweb.ucsd.edu/~savage/) on empirically studying the security risks of serverless storage in the cloud. (December 2021 - Present)
 
 Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) and [Kyeling Ong](https://www.linkedin.com/in/kyeling) on studying how under-represented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD. See ICER '22 publication above. (June 2021 - March 2022)
@@ -89,7 +91,7 @@ Tutor (Torrey Pines High School):
 * * *
 ## About Me
 
-I am a Masters student in Computer Science and Engineering at the Jacobs School of Engineering at UC San Diego. I received my B.S. in Mathematics-Computer Science at UCSD from 2020-2022. My hobbies include reading, writing, dancing, feeding goats, hiking, swimming, and traveling. You can find my sister's, Liz Izhikevich, website [here](https://lizizhikevich.github.io/).
+I am a Master's Student in Computer Science at the Jacobs School of Engineering at UC San Diego. I received my B.S. in Mathematics-Computer Science at UCSD from 2020-2022. My hobbies include reading, writing, dancing, feeding goats, hiking, swimming, and traveling. You can find my sister's, Liz Izhikevich, website [here](https://lizizhikevich.github.io/).
 
 * * *
 ## Photo Gallery
