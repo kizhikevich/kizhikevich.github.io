@@ -21,10 +21,6 @@ Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu
 
 M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
 
-**Izhikevich, Katherine**. “[Quantum Computing Today.](https://issuu.com/journys7/docs/final_journys_11.1)” *Journal of Youths in Science*, vol. 11, no.1, 2020, pp. 23-25.
-
-**Izhikevich, Katherine**. “[Defying Physics: A Study of Ballet.](https://issuu.com/journys7/docs/10.2)” *Journal of Youths in Science*, vol. 10, no.2, 2019, pp. 12-15.
-
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
 
 * * *
@@ -50,9 +46,9 @@ Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim]
 *	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
 *	Warren College Honors Society (Undergrad)
 *	Provost Honors (Undergrad)
-* Torrey Pines High School Math Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4 students out of the 2020 senior year class of about 650 students)
-* Torrey Pines High School English Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4 students out of the 2020 senior year class of about 650 students)
-* Torrey Pines High School Falcon Alumni Scholar (awarded to 2 students out of the 2020 senior year class of about 650 students)
+* Torrey Pines High School Math Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4/650 students)
+* Torrey Pines High School English Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4/650 students)
+* Torrey Pines High School Falcon Alumni Scholar (awarded to 2/650 students)
 
 * * *
 ## Teaching
