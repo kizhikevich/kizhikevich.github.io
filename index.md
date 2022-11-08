@@ -87,7 +87,7 @@ Tutor (Torrey Pines High School):
 * * *
 ## About Me
 
-I am a Master's Student in Computer Science at the Jacobs School of Engineering at UC San Diego. I received my B.S. in Mathematics-Computer Science at UCSD from 2020-2022. My hobbies include reading, writing, dancing, feeding goats, hiking, swimming, and traveling. You can find my sister's, Liz Izhikevich, website [here](https://lizizhikevich.github.io/).
+I am a Master's Student in Computer Science at the Jacobs School of Engineering at UC San Diego. I received my B.S. in Mathematics-Computer Science at UCSD from 2020-2022. My hobbies include reading, writing, dancing, feeding goats, hiking, swimming, and traveling. You can find my sister's website here: [Liz Izhikevich](https://lizizhikevich.github.io/).
 
 * * *
 ## Photo Gallery
