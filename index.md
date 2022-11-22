@@ -54,7 +54,7 @@ Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim]
 ## Teaching
 Graduate Instructional Assistant (at UC San Diego):
 
-* CSE100: Advanced Data Structures in C++ (Fall 2022: 400 students)
+* [CSE100: Advanced Data Structures in C++](https://cseweb.ucsd.edu/classes/fa22/cse100R-a/) (Fall 2022: 400 students)
 
 Undergraduate Instructional Assistant (at UC San Diego):
 
