@@ -30,7 +30,7 @@ Co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Sav
 
 Collaborating with Postdoc [Grant Ho](https://cseweb.ucsd.edu/~grho/) to detect reconnaissance activities on Active Directory accounts. (September 2022 - Present)
 
-Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/) on empirically studying the security risks of serverless storage in the cloud. (December 2021 - Present)
+Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/) on empirically studying the security risks of serverless storage in the cloud. (December 2021 - December 2022)
 
 Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) and [Kyeling Ong](https://www.linkedin.com/in/kyeling) on studying how under-represented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD. See ICER '22 publication above. (June 2021 - March 2022)
 
@@ -46,9 +46,9 @@ Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim]
 *	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
 *	Warren College Honors Society (Undergrad)
 *	Provost Honors (Undergrad)
-* Torrey Pines High School Math Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4/650 students)
-* Torrey Pines High School English Department Recognition Award for Achievement, Dedication, and Excellence (awarded to 4/650 students)
-* Torrey Pines High School Falcon Alumni Scholar (awarded to 2/650 students)
+* Torrey Pines High School Math Department Recognition Award for Achievement, Dedication, and Excellence
+* Torrey Pines High School English Department Recognition Award for Achievement, Dedication, and Excellence
+* Torrey Pines High School Falcon Alumni Scholar
 
 * * *
 ## Teaching
@@ -58,12 +58,8 @@ Graduate Instructional Assistant (at UC San Diego):
 
 Undergraduate Instructional Assistant (at UC San Diego):
 
-* CSE100: Advanced Data Structures in C++ (Fall 2021: 230 students, Winter 2022: 470 students)
-
-Tutor (Torrey Pines High School):
-
-* 1 of 5 TPHS Peer Tutors for over 2,000 students (2018-2020)
-* Private/group tutor for all levels of mathematics/physics/chemistry/programming (2016-2020)
+* CSE100: Advanced Data Structures in C++ (Winter 2022: 470 students)
+* CSE100: Advanced Data Structures in C++ (Fall 2021: 230 students)
 
 * * * 
 ## In the news
