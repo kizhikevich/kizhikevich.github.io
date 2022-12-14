@@ -40,8 +40,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
     - Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim](https://profiles.ucsd.edu/joel.wertheim), and PhD student [Jonathan Pekar](https://dbmi.ucsd.edu/people/students.html#Jonathan-Pekar) on the phylogenetics of early SARS-CoV-2 by simulating epidemics to determine how transmission dynamics affect the phylogenetic structure of SARS-CoV-2 and viral outbreaks more generally. See *Science* publication above. 
 - **Stanford Empirical Security Research Group:** [August 2020 - May 2021]
     - See IMC '21 publication above. 
-* * * 
 
+* * * 
 ## Teaching
 
 - **Graduate Instructional Assistant (at UC San Diego):**
