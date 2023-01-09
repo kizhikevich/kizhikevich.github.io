@@ -45,6 +45,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 ## Teaching
 
 - **Graduate Instructional Assistant (at UC San Diego):**
+    - [CSE291/DSC291: Information Manipulation: Trustworthiness of Information in Cyberspace](https://cseweb.ucsd.edu/~savage/cse291-wi23/index.html) (Winter 2023)
     - [CSE100: Advanced Data Structures in C++](https://cseweb.ucsd.edu/classes/fa22/cse100R-a/) (Fall 2022: 400 students)
  
 - **Undergraduate Instructional Assistant (at UC San Diego):**
