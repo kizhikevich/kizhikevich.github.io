@@ -15,7 +15,7 @@ gallery:
 * * *
 ## About Me
 
-I am a Master's Student in Computer Science at UC San Diego. I am co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my B.S. in Mathematics-Computer Science from UCSD in 2022. In my free time I enjoy listening to music, dancing, reading, writing, and hiking. My favorite hiking buddy is, coincidentally, a big collaborator of mine. You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/).
+I am a Master's Student in Computer Science at UC San Diego. I am co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my B.S. in Mathematics-Computer Science from UCSD in 2022. In my free time I enjoy listening to music, dancing, reading, writing, and hiking. My favorite hiking buddy is, coincidentally, a big collaborator of mine. You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/). **I will be applying to Ph.D. programs in Fall 2023.**
 
 * * *
 ## Peer-Reviewed Publications
@@ -34,17 +34,21 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 - **UCSD Sysnet:** [December 2021 - Present]
     - Collaborating with Postdoc [Grant Ho](https://cseweb.ucsd.edu/~grho/) to detect reconnaissance activities on Active Directory accounts. (September 2022 - Present)
     - Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/) on empirically studying the security risks of serverless storage in the cloud. (December 2021 - December 2022)
+- **Stanford Empirical Security Research Group:** [August 2020 - May 2021, December 2022 - Present]
+    - Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/), Dr. [Gautam Akiwate](https://cs.stanford.edu/~gakiwate/), and Manda Tran to understand the predictability of real-world Internet satellite networks. (December 2022 - Present)
+    - Quantitatively investigating who owns certain parts of the internet: in particular, identifying and classifying the 90,000 businesses that own 
+different Autonomous Systems. See IMC publication above. (August 2020 - May 2021)
 - **Computing Education:** [June 2021 - March 2022]
     - Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) and [Kyeling Ong](https://www.linkedin.com/in/kyeling) on studying how under-represented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD. See ICER '22 publication above. 
 - **Bioinformatics:** [August 2021 - February 2022]
     - Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim](https://profiles.ucsd.edu/joel.wertheim), and PhD student [Jonathan Pekar](https://dbmi.ucsd.edu/people/students.html#Jonathan-Pekar) on the phylogenetics of early SARS-CoV-2 by simulating epidemics to determine how transmission dynamics affect the phylogenetic structure of SARS-CoV-2 and viral outbreaks more generally. See *Science* publication above. 
-- **Stanford Empirical Security Research Group:** [August 2020 - May 2021]
-    - See IMC '21 publication above. 
+
 
 * * * 
 ## Teaching
 
 - **Graduate Instructional Assistant (at UC San Diego):**
+    - [CSE291: Security, Privacy, and US Law](https://cseweb.ucsd.edu//classes/sp23/cse291-b/) (Spring 2023)
     - [CSE291/DSC291: Information Manipulation: Trustworthiness of Information in Cyberspace](https://cseweb.ucsd.edu/~savage/cse291-wi23/index.html) (Winter 2023)
     - [CSE100: Advanced Data Structures in C++](https://cseweb.ucsd.edu/classes/fa22/cse100R-a/) (Fall 2022: 400 students)
  
@@ -53,7 +57,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
     - CSE100: Advanced Data Structures in C++ (Fall 2021: 230 students)
 
 * * *
-## Awards
+## Awards, Grants, and Scholarships
 * Travel grant recipient to IMC 2022 in Nice, France
 * Travel grant recipient to SIGCOMM 2022 in Amsterdam, Netherlands
 *	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
