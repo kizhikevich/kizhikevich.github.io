@@ -38,9 +38,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
     - Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/), Dr. [Gautam Akiwate](https://cs.stanford.edu/~gakiwate/), and Manda Tran to understand the predictability of real-world Internet satellite networks. (December 2022 - Present)
     - Quantitatively investigating who owns certain parts of the internet: in particular, identifying and classifying the 90,000 businesses that own 
 different Autonomous Systems. See IMC publication above. (August 2020 - May 2021)
-- **Computing Education:** [June 2021 - March 2022]
+- **UCSD Computing Education:** [June 2021 - March 2022]
     - Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) and [Kyeling Ong](https://www.linkedin.com/in/kyeling) on studying how under-represented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD. See ICER '22 publication above. 
-- **Bioinformatics:** [August 2021 - February 2022]
+- **UCSD Wertheim Lab (Bioinformatics):** [August 2021 - February 2022]
     - Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim](https://profiles.ucsd.edu/joel.wertheim), and PhD student [Jonathan Pekar](https://dbmi.ucsd.edu/people/students.html#Jonathan-Pekar) on the phylogenetics of early SARS-CoV-2 by simulating epidemics to determine how transmission dynamics affect the phylogenetic structure of SARS-CoV-2 and viral outbreaks more generally. See *Science* publication above. 
 
 
