@@ -58,6 +58,7 @@ different Autonomous Systems. See IMC publication above. (August 2020 - May 2021
 
 * * *
 ## Awards, Grants, and Scholarships
+* Recipient of the *Stephen L. Squires Scholarship for Women Studying Information Security* from [SWSIS](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023-24)
 * Travel grant recipient to IMC 2022 in Nice, France
 * Travel grant recipient to SIGCOMM 2022 in Amsterdam, Netherlands
 *	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
