@@ -32,7 +32,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 
 * * *
 ## Preprints
-L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, & Z. Durumeric,(2023). [Democratizing LEO Satellite Network Measurement.](https://arxiv.org/abs/2306.07469)
+L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, & Z. Durumeric (2023). [Democratizing LEO Satellite Network Measurement.](https://arxiv.org/abs/2306.07469)
 
 * * * 
 ## Lab Affiliations
