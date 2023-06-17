@@ -15,7 +15,9 @@ gallery:
 * * *
 ## About Me
 
-I am a Master's Student in Computer Science at UC San Diego. I am co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my B.S. in Mathematics-Computer Science from UCSD in 2022. In my free time I enjoy listening to music, dancing, reading, writing, and hiking. My favorite hiking buddy is, coincidentally, a big collaborator of mine. You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/). **I will be applying to Ph.D. programs in Fall 2023.**
+I am a Master's Student in Computer Science at UC San Diego. I am co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my B.S. in Mathematics-Computer Science from UCSD in 2022. In my free time I enjoy listening to music, dancing, reading, writing, and hiking. My favorite hiking buddy is, coincidentally, a big collaborator of mine. You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/). 
+
+**I will be applying to Ph.D. programs in Fall 2023.**
 
 * * *
 ## Peer-Reviewed Publications
@@ -29,13 +31,17 @@ M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. [ASdb: A System
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
 
 * * *
+## Preprints
+L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, & Z. Durumeric,(2023). [Democratizing LEO Satellite Network Measurement.](https://arxiv.org/abs/2306.07469)
+
+* * * 
 ## Lab Affiliations
 
 - **UCSD Sysnet:** [December 2021 - Present]
     - Collaborating with Postdoc [Grant Ho](https://cseweb.ucsd.edu/~grho/) to detect reconnaissance activities on Active Directory accounts. (September 2022 - Present)
     - Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/) on empirically studying the security risks of serverless storage in the cloud. (December 2021 - December 2022)
-- **Stanford Empirical Security Research Group:** [August 2020 - May 2021, December 2022 - Present]
-    - Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/), Dr. [Gautam Akiwate](https://cs.stanford.edu/~gakiwate/), and Manda Tran to understand the predictability of real-world Internet satellite networks. (December 2022 - Present)
+- **Stanford Empirical Security Research Group:** [August 2020 - May 2021, December 2022 - May 2023]
+    - Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/), Dr. [Gautam Akiwate](https://cs.stanford.edu/~gakiwate/), and Manda Tran to understand the predictability of real-world Internet satellite networks. See preprint above. (December 2022 - Present)
     - Quantitatively investigating who owns certain parts of the internet: in particular, identifying and classifying the 90,000 businesses that own 
 different Autonomous Systems. See IMC publication above. (August 2020 - May 2021)
 - **UCSD Computing Education:** [June 2021 - March 2022]
