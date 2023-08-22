@@ -74,9 +74,6 @@ different Autonomous Systems. See IMC publication above. (August 2020 - May 2021
 *	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
 *	Warren College Honors Society (Undergrad)
 *	Provost Honors (Undergrad)
-* Torrey Pines High School Math Department Recognition Award for Achievement, Dedication, and Excellence
-* Torrey Pines High School English Department Recognition Award for Achievement, Dedication, and Excellence
-* Torrey Pines High School Falcon Alumni Scholar
 
 * * *
 
@@ -89,7 +86,6 @@ different Autonomous Systems. See IMC publication above. (August 2020 - May 2021
 * * * 
 ## In the news
 
-* [Center for Networked Systems @ UCSD: Coronavirus Jumped to Humans at Least Twice at Wuhan Market in China](https://cns.ucsd.edu/coronavirus-jumped-to-humans-at-least-twice-at-wuhan-market-in-china/)
 * [CNN: New studies agree that animals sold at Wuhan market are most likely what started Covid-19 pandemic](https://www.cnn.com/2022/07/26/health/wuhan-market-covid-19/index.html)
 * [Washington Post: Scientists hone argument that coronavirus came from Wuhan market](https://www.washingtonpost.com/science/2022/07/26/coronavirus-origin-wuhan-market/)
 * [BBC: Covid origin studies say evidence points to Wuhan market](https://www.bbc.com/news/science-environment-62307383)
