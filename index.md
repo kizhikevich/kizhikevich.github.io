@@ -68,6 +68,7 @@ different Autonomous Systems. See IMC publication above. (August 2020 - May 2021
 * UCSD CSE Pixel Art Competition: [Best CSE Spirit 2023](https://pixel-art.goto.ucsd.edu/output.html) under pseudonym Ken Dizhikevich
 * Travel grant recipient to IMC 2022 in Nice, France
 * Travel grant recipient to SIGCOMM 2022 in Amsterdam, Netherlands
+* Graduated with Honors from UC San Diego (2022)
 *	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
 *	Warren College Honors Society (Undergrad)
 *	Provost Honors (Undergrad)
