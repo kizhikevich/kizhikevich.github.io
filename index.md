@@ -39,10 +39,14 @@ L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, & Z. Durumeric (2023). [D
 * * * 
 ## Lab Affiliations
 
-- **UCSD Sysnet** [December 2021 - Present]
-- **Stanford Empirical Security Research Group** [August 2020 - May 2021, December 2022 - May 2023]
-- **UCSD Computing Education** [June 2021 - March 2022]
-- **UCSD Wertheim Lab (Bioinformatics)** [August 2021 - February 2022]
+- [UCSD Sysnet](https://www.sysnet.ucsd.edu/sysnet/)
+  - December 2021 - Present
+- [Stanford Empirical Security Research Group](https://esrg.stanford.edu/)
+  - August 2020 - May 2021, December 2022 - May 2023
+- UCSD Computing Education
+  - June 2021 - March 2022
+- UCSD Wertheim Lab (Bioinformatics)
+  - August 2021 - February 2022
 
 * * * 
 ## Teaching
