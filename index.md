@@ -39,18 +39,10 @@ L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, & Z. Durumeric (2023). [D
 * * * 
 ## Lab Affiliations
 
-- **UCSD Sysnet:** [December 2021 - Present]
-    - Collaborating with Postdoc [Grant Ho](https://cseweb.ucsd.edu/~grho/) to detect reconnaissance activities on Active Directory accounts. (September 2022 - Present)
-    - Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/) on empirically studying the security risks of serverless storage in the cloud. (December 2021 - December 2022)
-- **Stanford Empirical Security Research Group:** [August 2020 - May 2021, December 2022 - May 2023]
-    - Collaborating with [Liz Izhikevich](https://lizizhikevich.github.io/), Dr. [Gautam Akiwate](https://cs.stanford.edu/~gakiwate/), and Manda Tran to understand the predictability of real-world Internet satellite networks. See preprint above. (December 2022 - Present)
-    - Quantitatively investigating who owns certain parts of the internet: in particular, identifying and classifying the 90,000 businesses that own 
-different Autonomous Systems. See IMC publication above. (August 2020 - May 2021)
-- **UCSD Computing Education:** [June 2021 - March 2022]
-    - Collaborating with Prof. [Christine Alvarado](https://sites.google.com/a/eng.ucsd.edu/alvarado/) and [Kyeling Ong](https://www.linkedin.com/in/kyeling) on studying how under-represented minorities, women, and transfer students experience the [CSE Early Research Scholars Program](https://ersp.eng.ucsd.edu/) at UCSD. See ICER '22 publication above. 
-- **UCSD Wertheim Lab (Bioinformatics):** [August 2021 - February 2022]
-    - Collaborating with Prof. [Niema Moshiri](https://niema.net), Dr. [Joel Wertheim](https://profiles.ucsd.edu/joel.wertheim), and PhD student [Jonathan Pekar](https://dbmi.ucsd.edu/people/students.html#Jonathan-Pekar) on the phylogenetics of early SARS-CoV-2 by simulating epidemics to determine how transmission dynamics affect the phylogenetic structure of SARS-CoV-2 and viral outbreaks more generally. See *Science* publication above. 
-
+- **UCSD Sysnet** [December 2021 - Present]
+- **Stanford Empirical Security Research Group** [August 2020 - May 2021, December 2022 - May 2023]
+- **UCSD Computing Education** [June 2021 - March 2022]
+- **UCSD Wertheim Lab (Bioinformatics)** [August 2021 - February 2022]
 
 * * * 
 ## Teaching
@@ -66,6 +58,7 @@ different Autonomous Systems. See IMC publication above. (August 2020 - May 2021
 
 * * *
 ## Awards, Grants, and Scholarships
+* Travel grant recipient to IMC 2023 in Montréal, Canada
 * Recipient of the *Stephen L. Squires Scholarship for Women Studying Information Security* from [SWSIS](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023-24)
 * UCSD CSE Pixel Art Competition: [Best CSE Spirit 2023](https://pixel-art.goto.ucsd.edu/output.html) under pseudonym Ken Dizhikevich
 * Travel grant recipient to IMC 2022 in Nice, France
