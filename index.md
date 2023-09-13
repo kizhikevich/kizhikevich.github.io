@@ -17,7 +17,7 @@ gallery:
 
 **I will be applying to Ph.D. programs in Fall 2023.**
 
-I am a Master's Student in Computer Science at UC San Diego broadly studying the security and performance of network, co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). Primarily, I study how to detect attacker reconnaissance on enterprise networks. However, I also research LEO satellite network performance, comparing the accuracy of simulations to real data. I received my B.S. in Mathematics-Computer Science from UCSD in 2022. In my free time I enjoy listening to music, dancing, reading, writing, and hiking. My sister, who also does networking research, is on the faculty job market this Fall 2023. You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/). 
+I am a Master's Student in Computer Science at UC San Diego broadly studying the security and performance of networks, co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). Primarily, I study how to detect attacker reconnaissance on enterprise networks. However, I also research LEO satellite network performance, comparing the accuracy of simulations to real data. I received my B.S. in Mathematics-Computer Science from UCSD in 2022. In my free time I enjoy listening to music, dancing, reading, writing, and hiking. My sister, who also does networking research, is on the faculty job market this Fall 2023. You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/). 
 
 * * *
 ## Peer-Reviewed Publications
