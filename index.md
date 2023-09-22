@@ -22,7 +22,7 @@ I am a Master's Student in Computer Science at UC San Diego, broadly studying th
 * * *
 ## Peer-Reviewed Publications
 
-B. Du, **K. Izhikevich**, S. Rao, C. Testart, G. Akiwate, A. Snoeren, K. Claffy. IRRegularities in the Internet Routing Registry. In ACM Internet Measurement Conference (IMC), 2023.
+B. Du, **K. Izhikevich**, S. Rao, G. Akiwate, C. Testart, A. Snoeren, K. Claffy. IRRegularities in the Internet Routing Registry. In ACM Internet Measurement Conference (IMC), 2023.
 
 Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu K, Malpica Serrano LM, Crits-Christoph A, Matteson NL, Zeller M, Levy JI, Wang JC, Hughes S, Lee J, Park H, Park MS, Ching Zi Yan K, Tzer Pin Lin R, Mat Isa MN, Muhammad Noor Y, Vasylyeva TI, Garry RF, Holmes EC, Rambaut A, Suchard MA, Andersen KG, Worobey M, Wertheim JO (2022). ["The molecular epidemiology of multiple zoonotic origins of SARS-CoV-2."](https://www.science.org/doi/10.1126/science.abp8337) *Science*. DOI: 10.1126/science.abp8337
 
