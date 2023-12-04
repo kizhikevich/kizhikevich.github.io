@@ -35,9 +35,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 * * *
 ## Preprints
 
-K. Izhikevich, G. Voelker, S. Savage, L. Izhikevich (2023). [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild.](/assets/papers/honeybuckets.pdf)
+**K. Izhikevich**, G. Voelker, S. Savage, L. Izhikevich (2023). [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](https://arxiv.org/abs/2312.00580). arXiv preprint arXiv:2312.00580.
 
-L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, & Z. Durumeric (2023). [Democratizing LEO Satellite Network Measurement.](https://arxiv.org/abs/2306.07469)
+L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, Z. Durumeric (2023). [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469). arXiv preprint arXiv:2306.07469.
 
 * * * 
 ## Lab Affiliations
