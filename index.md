@@ -22,6 +22,8 @@ I am a Master's Student in Computer Science at UC San Diego, broadly studying th
 * * *
 ## Peer-Reviewed Publications
 
+L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469). ACM SIGMETRICS/IFIP Performance, June 2024.
+
 B. Du, **K. Izhikevich**, S. Rao, G. Akiwate, C. Testart, A. Snoeren, K. Claffy. [IRRegularities in the Internet Routing Registry](/assets/papers/Suspicious_IRR_Records_Final.pdf). In ACM Internet Measurement Conference (IMC), 2023.
 
 Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu K, Malpica Serrano LM, Crits-Christoph A, Matteson NL, Zeller M, Levy JI, Wang JC, Hughes S, Lee J, Park H, Park MS, Ching Zi Yan K, Tzer Pin Lin R, Mat Isa MN, Muhammad Noor Y, Vasylyeva TI, Garry RF, Holmes EC, Rambaut A, Suchard MA, Andersen KG, Worobey M, Wertheim JO (2022). ["The molecular epidemiology of multiple zoonotic origins of SARS-CoV-2."](https://www.science.org/doi/10.1126/science.abp8337) *Science*. DOI: 10.1126/science.abp8337
@@ -36,8 +38,6 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 ## Preprints
 
 **K. Izhikevich**, G. Voelker, S. Savage, L. Izhikevich (2023). [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](https://arxiv.org/abs/2312.00580). arXiv preprint arXiv:2312.00580.
-
-L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, Z. Durumeric (2023). [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469). arXiv preprint arXiv:2306.07469.
 
 * * * 
 ## Lab Affiliations
