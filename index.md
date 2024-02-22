@@ -20,6 +20,8 @@ I am a Master's Student in Computer Science at UC San Diego, broadly studying th
 * * *
 ## Peer-Reviewed Publications
 
+[Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](https://arxiv.org/abs/2312.00580), **Katherine Izhikevich**, Geoffrey M. Voelker, Stefan Savage, Liz Izhikevich. In Proceedings of the _IEEE European Symposium on Security and Privacy_, Vienna, Austria, July 2024.
+
 L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469). ACM SIGMETRICS/IFIP Performance, June 2024.
 
 B. Du, **K. Izhikevich**, S. Rao, G. Akiwate, C. Testart, A. Snoeren, K. Claffy. [IRRegularities in the Internet Routing Registry](/assets/papers/Suspicious_IRR_Records_Final.pdf). In ACM Internet Measurement Conference (IMC), 2023.
@@ -33,11 +35,7 @@ M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. [ASdb: A System
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
 
 * * *
-## Preprints
 
-**K. Izhikevich**, G. Voelker, S. Savage, L. Izhikevich (2023). [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](https://arxiv.org/abs/2312.00580). arXiv preprint arXiv:2312.00580.
-
-* * * 
 ## Lab Affiliations
 
 - [UCSD Sysnet](https://www.sysnet.ucsd.edu/sysnet/)
