@@ -4,6 +4,7 @@ layout: default
 gallery:
 
   - image_path: /assets/holiday_skit.jpg
+  - image_path: /assets/silly_holiday_skit.jpg
   - image_path: /assets/ski.jpg
   - image_path: /assets/caps.png
   - image_path: /assets/beaujolaisLG.jpg
