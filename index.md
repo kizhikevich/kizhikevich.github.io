@@ -8,7 +8,6 @@ gallery:
   - image_path: /assets/ski.jpg
   - image_path: /assets/caps.png
   - image_path: /assets/beaujolaisLG.jpg
-  - image_path: /assets/hike.jpg
   - image_path: /assets/rodin.jpg
 
 ---
