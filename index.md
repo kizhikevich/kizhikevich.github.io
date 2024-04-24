@@ -15,7 +15,7 @@ gallery:
 * * *
 ## About Me
 
-I am a 2nd year PhD Student in Computer Science at UC San Diego, broadly studying the security and performance of networks, co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). Primarily, I study how to detect attacker reconnaissance on enterprise networks. I received my B.S. in Mathematics-Computer Science from UCSD in 2022 and I will receive my M.S. in Computer Science in June 2024. My sister, who also does networking research, is on the faculty job market right now (2024). You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/). 
+I am a 2nd year Computer Science PhD Department Fellow at UC San Diego, broadly studying the security and performance of networks, co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). Primarily, I study how to detect attacker reconnaissance on enterprise networks. I received my B.S. in Mathematics-Computer Science from UCSD in 2022 and I will receive my M.S. in Computer Science in June 2024. My sister, who also does networking research, is on the faculty job market right now (2024). You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/). 
 
 * * *
 ## Peer-Reviewed Publications
