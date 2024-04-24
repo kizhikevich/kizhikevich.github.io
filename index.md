@@ -61,6 +61,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 
 * * *
 ## Awards, Grants, and Scholarships
+* UCSD CSE Department Fellowship
 * Travel grant recipient to IMC 2023 in Montréal, Canada
 * Recipient of the *Stephen L. Squires Scholarship for Women Studying Information Security* from [SWSIS](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023-24)
 * UCSD CSE Pixel Art Competition: [Best CSE Spirit 2023](https://pixel-art.goto.ucsd.edu/output.html) under pseudonym Ken Dizhikevich
