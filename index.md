@@ -20,7 +20,7 @@ I am a 2nd year Computer Science PhD Department Fellow at UC San Diego, broadly 
 * * *
 ## Peer-Reviewed Publications
 
-**Katherine Izhikevich**, Geoffrey M. Voelker, Stefan Savage, Liz Izhikevich. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](https://arxiv.org/abs/2312.00580),  In Proceedings of the _IEEE European Symposium on Security and Privacy_, Vienna, Austria, July 2024.
+**Katherine Izhikevich**, Geoffrey M. Voelker, Stefan Savage, Liz Izhikevich. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/Honeybuckets.pdf),  In Proceedings of the _IEEE European Symposium on Security and Privacy_, Vienna, Austria, July 2024.
 
 L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469). ACM SIGMETRICS/IFIP Performance, June 2024.
 
