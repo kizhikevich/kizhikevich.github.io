@@ -22,7 +22,7 @@ I am a 2nd year Computer Science PhD Department Fellow at UC San Diego, broadly 
 
 **Katherine Izhikevich**, Geoffrey M. Voelker, Stefan Savage, Liz Izhikevich. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/Honeybuckets.pdf),  In Proceedings of the _IEEE European Symposium on Security and Privacy_, Vienna, Austria, July 2024.
 
-L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469). ACM SIGMETRICS/IFIP Performance, June 2024.
+L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/finalLEO_HitchHiking.pdf). ACM SIGMETRICS/IFIP Performance, June 2024.
 
 B. Du, **K. Izhikevich**, S. Rao, G. Akiwate, C. Testart, A. Snoeren, K. Claffy. [IRRegularities in the Internet Routing Registry](/assets/papers/Suspicious_IRR_Records_Final.pdf). In ACM Internet Measurement Conference (IMC), 2023.
 
