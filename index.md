@@ -15,22 +15,22 @@ gallery:
 * * *
 ## About Me
 
-I am a 2nd year Computer Science PhD Department Fellow at UC San Diego, broadly studying the security and performance of networks, co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). Primarily, I study how to detect attacker reconnaissance on enterprise networks. I received my B.S. in Mathematics-Computer Science from UCSD in 2022 and I will receive my M.S. in Computer Science in June 2024. My sister, who also does networking research, will become faculty at UCLA in Fall 2024! You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/). 
+I am a 2nd year Computer Science PhD Department Fellow at UC San Diego, broadly studying the security and performance of networks, co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my B.S. in Mathematics-Computer Science from UCSD in 2022 and I will receive my M.S. in Computer Science in June 2024. My sister, who also does networking research, will become faculty at UCLA in Fall 2024! You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/). 
 
 * * *
 ## Peer-Reviewed Publications
 
 **Katherine Izhikevich**, Geoffrey M. Voelker, Stefan Savage, Liz Izhikevich. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/Honeybuckets.pdf),  In Proceedings of the _IEEE European Symposium on Security and Privacy_, Vienna, Austria, July 2024.
 
-L. Izhikevich, M. Tran, **K. Izhikevich**, G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/finalLEO_HitchHiking.pdf). ACM SIGMETRICS/IFIP Performance, June 2024.
+Liz Izhikevich, Manda Tran, **Katherine Izhikevich**, Guatam Akiwate, Zakir Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/finalLEO_HitchHiking.pdf). ACM SIGMETRICS/IFIP Performance, June 2024.
 
-B. Du, **K. Izhikevich**, S. Rao, G. Akiwate, C. Testart, A. Snoeren, K. Claffy. [IRRegularities in the Internet Routing Registry](/assets/papers/Suspicious_IRR_Records_Final.pdf). In ACM Internet Measurement Conference (IMC), 2023.
+Ben Du, **Katherine Izhikevich**, Sumanth Rao, Guatam Akiwate, Cecilia Testart, Alex Snoeren, KC Claffy. [IRRegularities in the Internet Routing Registry](/assets/papers/Suspicious_IRR_Records_Final.pdf). In ACM Internet Measurement Conference (IMC), 2023.
 
 Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu K, Malpica Serrano LM, Crits-Christoph A, Matteson NL, Zeller M, Levy JI, Wang JC, Hughes S, Lee J, Park H, Park MS, Ching Zi Yan K, Tzer Pin Lin R, Mat Isa MN, Muhammad Noor Y, Vasylyeva TI, Garry RF, Holmes EC, Rambaut A, Suchard MA, Andersen KG, Worobey M, Wertheim JO (2022). ["The molecular epidemiology of multiple zoonotic origins of SARS-CoV-2."](https://www.science.org/doi/10.1126/science.abp8337) *Science*. DOI: 10.1126/science.abp8337
 
 **Katherine Izhikevich**, Kyeling Ong, and Christine Alvarado. 2022. [Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience.](/assets/papers/groupdynamicsicer2022.pdf) In Proceedings of the 2022 ACM Conference on International Computing Education Research V.1 (ICER 2022), 2022
 
-M. Ziv, L. Izhikevich, K. Ruth, **K. Izhikevich**, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
+Maya Ziv, Liz Izhikevich, Kimberly Ruth, **Katherine Izhikevich**, Zakir Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
 
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
 
