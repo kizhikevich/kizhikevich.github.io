@@ -61,16 +61,16 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 
 * * *
 ## Awards, Grants, and Scholarships
-* UCSD CSE 2024 Masters Award for Excellence in Research
-* UCSD CSE MS to PhD Department Fellowship
-* Travel grant recipient to Sigmetrics 2024 in Venice, Italy
-* Travel grant recipient to IMC 2023 in Montréal, Canada
-* Recipient of the *Stephen L. Squires Scholarship for Women Studying Information Security* from [SWSIS](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023-24)
-* UCSD CSE Pixel Art Competition: [Best CSE Spirit 2023](https://pixel-art.goto.ucsd.edu/output.html) under pseudonym Ken Dizhikevich
-* Travel grant recipient to IMC 2022 in Nice, France
-* Travel grant recipient to SIGCOMM 2022 in Amsterdam, Netherlands
+* UCSD CSE Masters Award for Excellence in Research (2024)
+* UCSD CSE MS to PhD Department Fellowship (2024)
+* Travel grant recipient to Sigmetrics in Venice, Italy (2024)
+* *Stephen L. Squires Scholar for Women Studying Information Security* from [ACSA and CRA](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023-24)
+* Travel grant recipient to IMC in Montréal, Canada (2023)
+* UCSD CSE Pixel Art Competition: [Best CSE Spirit](https://pixel-art.goto.ucsd.edu/output.html) under pseudonym Ken Dizhikevich (2023)
+* Travel grant recipient to IMC in Nice, France (2022)
+* Travel grant recipient to SIGCOMM in Amsterdam, Netherlands (2022)
 * Graduated with Honors from UC San Diego (2022)
-*	Recipient of the *Gary C Reynolds Scholarship* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
+*	*Gary C Reynolds Scholar* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
 *	Warren College Honors Society (Undergrad)
 *	Provost Honors (Undergrad)
 
