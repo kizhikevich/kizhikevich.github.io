@@ -15,7 +15,7 @@ gallery:
 * * *
 ## About Me
 
-I am a 2nd year Computer Science PhD Department Fellow at UC San Diego, broadly studying the security and performance of networks, co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my B.S. in Mathematics-Computer Science from UCSD in 2022 and I will receive my M.S. in Computer Science in June 2024. My sister, who also does networking research, will become faculty at UCLA in Fall 2024! You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/). 
+I am a 3rd year Computer Science PhD Department Fellow at UC San Diego, broadly studying the security and performance of networks, co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my B.S. in Mathematics-Computer Science from UCSD in 2022 and my M.S. in Computer Science from UCSD in 2024. My sister, who also does networking research, will become faculty at UCLA in July 2024! You can find her website here: [Liz Izhikevich](https://lizizhikevich.github.io/). 
 
 * * *
 ## Peer-Reviewed Publications
@@ -61,7 +61,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 
 * * *
 ## Awards, Grants, and Scholarships
-* UCSD CSE Department Fellowship
+* UCSD CSE 2024 Masters Award for Excellence in Research
+* UCSD CSE MS to PhD Department Fellowship
 * Travel grant recipient to Sigmetrics 2024 in Venice, Italy
 * Travel grant recipient to IMC 2023 in Montréal, Canada
 * Recipient of the *Stephen L. Squires Scholarship for Women Studying Information Security* from [SWSIS](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023-24)
