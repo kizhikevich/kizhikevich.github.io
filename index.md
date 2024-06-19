@@ -20,17 +20,17 @@ I am a 3rd year Computer Science PhD Department Fellow at UC San Diego, broadly 
 * * *
 ## Peer-Reviewed Publications
 
-**Katherine Izhikevich**, Geoffrey M. Voelker, Stefan Savage, Liz Izhikevich. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/Honeybuckets.pdf),  In Proceedings of the _IEEE European Symposium on Security and Privacy_, Vienna, Austria, July 2024.
+**Katherine Izhikevich**, Geoffrey M. Voelker, Stefan Savage, Liz Izhikevich. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/Honeybuckets.pdf).  In Proceedings of the 9th _IEEE European Symposium on Security and Privacy_, Vienna, Austria, July 2024.
 
-Liz Izhikevich, Manda Tran, **Katherine Izhikevich**, Gautam Akiwate, Zakir Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/finalLEO_HitchHiking.pdf). ACM SIGMETRICS/IFIP Performance, June 2024.
+Liz Izhikevich, Manda Tran, **Katherine Izhikevich**, Gautam Akiwate, Zakir Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/finalLEO_HitchHiking.pdf). In Proceedings of the 50th _ACM SIGMETRICS_, Venice, Italy, June 2024.
 
-Ben Du, **Katherine Izhikevich**, Sumanth Rao, Gautam Akiwate, Cecilia Testart, Alex Snoeren, KC Claffy. [IRRegularities in the Internet Routing Registry](/assets/papers/Suspicious_IRR_Records_Final.pdf). In ACM Internet Measurement Conference (IMC), 2023.
+Ben Du, **Katherine Izhikevich**, Sumanth Rao, Gautam Akiwate, Cecilia Testart, Alex Snoeren, KC Claffy. [IRRegularities in the Internet Routing Registry](/assets/papers/Suspicious_IRR_Records_Final.pdf). In Proceedings of the 23rd _ACM Internet Measurement Conference_, Montréal, Canada 2023.
 
 Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu K, Malpica Serrano LM, Crits-Christoph A, Matteson NL, Zeller M, Levy JI, Wang JC, Hughes S, Lee J, Park H, Park MS, Ching Zi Yan K, Tzer Pin Lin R, Mat Isa MN, Muhammad Noor Y, Vasylyeva TI, Garry RF, Holmes EC, Rambaut A, Suchard MA, Andersen KG, Worobey M, Wertheim JO (2022). ["The molecular epidemiology of multiple zoonotic origins of SARS-CoV-2."](https://www.science.org/doi/10.1126/science.abp8337) *Science*. DOI: 10.1126/science.abp8337
 
-**Katherine Izhikevich**, Kyeling Ong, and Christine Alvarado. 2022. [Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience.](/assets/papers/groupdynamicsicer2022.pdf) In Proceedings of the 2022 ACM Conference on International Computing Education Research V.1 (ICER 2022), 2022
+**Katherine Izhikevich**, Kyeling Ong, and Christine Alvarado. 2022. [Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience.](/assets/papers/groupdynamicsicer2022.pdf) In Proceedings of the 18th _ACM International Computing Education Research_, Lugano, Switzerland, 2022.
 
-Maya Ziv, Liz Izhikevich, Kimberly Ruth, **Katherine Izhikevich**, Zakir Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
+Maya Ziv, Liz Izhikevich, Kimberly Ruth, **Katherine Izhikevich**, Zakir Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In Proceedings of the 21st _ACM Internet Measurement Conference_, Virtual, 2021.
 
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
 
