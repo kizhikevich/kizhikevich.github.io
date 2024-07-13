@@ -60,14 +60,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 
 * * *
 ## Awards, Grants, and Scholarships
-* UCSD CSE Masters Award for Excellence in Research (2024)
 * UCSD CSE MS to PhD Department Fellowship (2024)
-* Travel grant recipient to Sigmetrics in Venice, Italy (2024)
-* *Stephen L. Squires Scholar for Women Studying Information Security* from [ACSA and CRA](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023-24)
-* Travel grant recipient to IMC in Montréal, Canada (2023)
-* UCSD CSE Pixel Art Competition: [Best CSE Spirit](https://pixel-art.goto.ucsd.edu/output.html) under pseudonym Ken Dizhikevich (2023)
-* Travel grant recipient to IMC in Nice, France (2022)
-* Travel grant recipient to SIGCOMM in Amsterdam, Netherlands (2022)
+* UCSD CSE Masters Award for Excellence in Research (2024)
+* *Stephen L. Squires Scholar* from [ACSA and CRA](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023-24)
 * Graduated with Honors from UC San Diego (2022)
 *	*Gary C Reynolds Scholar* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
 *	Warren College Honors Society (Undergrad)
@@ -77,12 +72,12 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 
 ## Extracurriculars / Mentoring
 
-* Co-mentor for the UCSD Early Research Scholars Program.
-* Graduate Mentor for UCSD *Graduate Women in Computing*.
-* Graduate Mentor for UCSD *International Students & Programs Office*.
-* Founding member of the *Association for Women in Mathematics*, UCSD undergraduate branch (as an undergraduate).
-*	Member of *Women in Computing* (as an undergraduate).
-* Mentor for *EmpowHer*, an all-female high school Hackathon (as an undergraduate).
+* Co-mentor for the UCSD *Early Research Scholars Program* (2023-24)
+* Graduate Mentor for UCSD *Graduate Women in Computing* (2023-24)
+* Graduate Mentor for UCSD *International Students & Programs Office* (2023-24)
+* Founding member of the *Association for Women in Mathematics*, UCSD undergraduate branch (2021-22)
+*	Member of *Undergraduate Women in Computing* (2020-22)
+* Mentor for *EmpowHer*, an all-female high school Hackathon (2020-21)
 
 * * * 
 ## In the news
