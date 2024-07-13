@@ -62,9 +62,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 ## Awards, Grants, and Scholarships
 * UCSD CSE MS to PhD Department Fellowship (2024)
 * UCSD CSE Masters Award for Excellence in Research (2024)
-* *Stephen L. Squires Scholar* from [ACSA and CRA](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023-24)
+* *Stephen L. Squires Scholar* from [ACSA and CRA](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023)
 * Graduated with Honors from UC San Diego (2022)
-*	*Gary C Reynolds Scholar* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021-22)
+*	*Gary C Reynolds Scholar* @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science (2021)
 *	Warren College Honors Society (Undergrad)
 *	Provost Honors (Undergrad)
 
