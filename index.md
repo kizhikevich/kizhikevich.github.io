@@ -32,21 +32,10 @@ Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu
 Maya Ziv, Liz Izhikevich, Kimberly Ruth, **Katherine Izhikevich**, Zakir Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In Proceedings of the 21st _ACM Internet Measurement Conference_, Virtual, 2021.
 
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
-
 * * *
-
-## Lab Affiliations
-
-- [UCSD Sysnet](https://www.sysnet.ucsd.edu/sysnet/)
-  - December 2021 - Present
-- [Stanford Empirical Security Research Group](https://esrg.stanford.edu/)
-  - August 2020 - May 2021, December 2022 - May 2023
-- UCSD Computing Education
-  - June 2021 - March 2022
-- UCSD Wertheim Lab (Bioinformatics)
-  - August 2021 - February 2022
-
-* * * 
+## Service
+- IEEE European Symposium on Security and Privacy 2025 Program Committee
+* * *
 ## Teaching
 
 - **Graduate Instructional Assistant (at UC San Diego):**
