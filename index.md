@@ -32,9 +32,11 @@ Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu
 Maya Ziv, Liz Izhikevich, Kimberly Ruth, **Katherine Izhikevich**, Zakir Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In Proceedings of the 21st _ACM Internet Measurement Conference_, Virtual, 2021.
 
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
+
 * * *
 ## Service
 - IEEE European Symposium on Security and Privacy 2025 Program Committee
+  
 * * *
 ## Teaching
 
