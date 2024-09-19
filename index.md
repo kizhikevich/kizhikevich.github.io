@@ -51,6 +51,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 
 * * *
 ## Awards, Grants, and Scholarships
+* San Diego ARCS Scholar (2024)
 * UCSD CSE MS to PhD Department Fellowship (2024)
 * UCSD CSE Masters Award for Excellence in Research (2024)
 * *Stephen L. Squires Scholar* from [ACSA and CRA](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023)
