@@ -15,7 +15,7 @@ gallery:
 * * *
 ## About Me
 
-I am entering the fourth year of my PhD at the UC San Diego Computer Science Department, broadly studying the security and performance of networks, co-advised by [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my M.S. in Computer Science from UCSD in 2024 and B.S. in Mathematics-Computer Science from UCSD in 2022. My sister, [Liz Izhikevich](https://lizizhikevich.github.io/), is an Assistant Professor at UCLA ECE.
+I am entering the fourth year of my PhD at the UC San Diego Computer Science Department, broadly studying the security and performance of networks, co-advised by the GOATs [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my M.S. in Computer Science from UCSD in 2024 and B.S. in Mathematics-Computer Science from UCSD in 2022. My sister, [Liz Izhikevich](https://lizizhikevich.github.io/), is an Assistant Professor at UCLA ECE.
 * * *
 ## Peer-Reviewed Publications
 
