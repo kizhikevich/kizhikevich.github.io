@@ -39,7 +39,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 * * *
 ## Service
 - USENIX Security 2026 Program Committee
-- UCSD Graduate Student Council & GradCom liason 
+- UCSD Graduate Student Council & GradCom student representative 
 - IEEE European Symposium on Security and Privacy 2025 Program Committee
   
 * * *
