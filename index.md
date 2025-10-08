@@ -16,6 +16,9 @@ gallery:
 ## About Me
 
 I am entering the fourth year of my PhD at the UC San Diego Computer Science Department, broadly studying the security and performance of networks, co-advised by the GOATs [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) at [Sysnet](https://www.sysnet.ucsd.edu/sysnet/). I received my M.S. in Computer Science from UCSD in 2024 and B.S. in Mathematics-Computer Science from UCSD in 2022. My sister, [Liz Izhikevich](https://lizizhikevich.github.io/), is an Assistant Professor at UCLA ECE.
+
+**I currently serve as the CSE GradCom student representative.** If you are a UCSD CSE graduate student and would like to discuss department resources, seek advice, or share feedback, please feel free to reach out. You can contact me directly via email or anonymously through the Google Form linked in the Ph.D. Handbook. I’m always happy to help or connect you with the right support!
+
 * * *
 ## Peer-Reviewed Publications
 
@@ -36,6 +39,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 * * *
 ## Service
 - USENIX Security 2026 Program Committee
+- UCSD Graduate Student Council & GradCom liason 
 - IEEE European Symposium on Security and Privacy 2025 Program Committee
   
 * * *
