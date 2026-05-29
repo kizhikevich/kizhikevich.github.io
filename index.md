@@ -21,6 +21,11 @@ I am a fourth-year Ph.D. student in the Computer Science Department at UC San Di
 * * *
 ## Peer-Reviewed Publications
 
+Alisha Ukani, Ross Greer, **Katherine Izhikevich**, Earlence Fernandes, Alex C. Snoeren, and Stefan Savage. [WarrInt: Integrity Validation for Criminal Legal Process](). In Proceedings of the 35th _USENIX Security Symposium_, Baltimore, MD, August 2026.
+
+> Vrishan Inukollu, Porfirio Montoya, Ross Greer, Alisha Ukani, **Katherine Izhikevich**, Earlence Fernandes, Stefan Savage, and Alex C. Snoeren. [Countering Fabricated Legal Documents: Aligning Verification Attention to Salient Objects through Zero-Shot Detection of Confounding or Obscuring Symbols](). In Proceedings of the _From Perception to Persuasion: Challenges and Advances in Misinformation Detection in Society Workshop at the Computer Vision and Pattern Recognition Conference_, Denver, CO, June 2026.
+
+
 **Katherine Izhikevich**, Geoffrey M. Voelker, Stefan Savage, Liz Izhikevich. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/Honeybuckets.pdf).  In Proceedings of the 9th _IEEE European Symposium on Security and Privacy_, Vienna, Austria, July 2024.
 
 Liz Izhikevich, Manda Tran, **Katherine Izhikevich**, Gautam Akiwate, Zakir Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/finalLEO_HitchHiking.pdf). In Proceedings of the 50th _ACM SIGMETRICS_, Venice, Italy, June 2024.
