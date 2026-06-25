@@ -14,7 +14,7 @@ gallery:
 
 * * *
 ## About Me
-I am a fourth-year Ph.D. student in the Computer Science Department at UC San Diego, where I study the security and performance of networks. I’m co-advised by the GOATs, [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) , in the [SysNet](https://www.sysnet.ucsd.edu/sysnet/) group. I earned my M.S. in Computer Science from UCSD in 2024 and my B.S. in Mathematics–Computer Science from UCSD in 2022. My sister, [Liz Izhikevich](https://lizizhikevich.github.io/), is an Assistant Professor at UCLA ECE.
+I am a Ph.D. student in the Computer Science Department at UC San Diego, where I study the security and performance of networks. I’m co-advised by the GOATs, [Geoff Voelker](https://cseweb.ucsd.edu/~voelker/) and [Stefan Savage](https://cseweb.ucsd.edu/~savage/) , in the [SysNet](https://www.sysnet.ucsd.edu/sysnet/) group. I earned my M.S. in Computer Science from UCSD in 2024 and my B.S. in Mathematics–Computer Science from UCSD in 2022. My sister, [Liz Izhikevich](https://lizizhikevich.github.io/), is an Assistant Professor at UCLA ECE.
 
 **I currently serve as the CSE GradCom student representative.** If you are a UCSD CSE graduate student and would like to discuss department resources, seek advice, or share feedback, please feel free to reach out. You can contact me directly via email or anonymously through the Google Form linked in the Ph.D. Handbook. I’m always happy to help or connect you with the right support!
 
