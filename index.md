@@ -25,7 +25,6 @@ Alisha Ukani, Ross Greer, **Katherine Izhikevich**, Earlence Fernandes, Alex C. 
 
 Vrishan Inukollu, Porfirio Montoya, Ross Greer, Alisha Ukani, **Katherine Izhikevich**, Earlence Fernandes, Stefan Savage, and Alex C. Snoeren. [Countering Fabricated Legal Documents: Aligning Verification Attention to Salient Objects through Zero-Shot Detection of Confounding or Obscuring Symbols](). In Proceedings of the _From Perception to Persuasion: Challenges and Advances in Misinformation Detection in Society Workshop at the Computer Vision and Pattern Recognition Conference_, Denver, CO, June 2026.
 
-
 **Katherine Izhikevich**, Geoffrey M. Voelker, Stefan Savage, Liz Izhikevich. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/Honeybuckets.pdf).  In Proceedings of the 9th _IEEE European Symposium on Security and Privacy_, Vienna, Austria, July 2024.
 
 Liz Izhikevich, Manda Tran, **Katherine Izhikevich**, Gautam Akiwate, Zakir Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/finalLEO_HitchHiking.pdf). In Proceedings of the 50th _ACM SIGMETRICS_, Venice, Italy, June 2024.
@@ -39,6 +38,10 @@ Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu
 Maya Ziv, Liz Izhikevich, Kimberly Ruth, **Katherine Izhikevich**, Zakir Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In Proceedings of the 21st _ACM Internet Measurement Conference_, Virtual, 2021.
 
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
+
+* * *
+## Pre-prints
+- Rahul Tripathi, **Katherine Izhikevich**, Sai Chaparala, Manan Patel, Samvrit Srinath, Eric Zhou, Ben Du, Liz Izhikevich. [IPHints: Inferring and Categorizing Customers of Internet Services](/assets/papers/IPHints.pdf). Under Submission.
 
 * * *
 ## Service
@@ -60,6 +63,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 
 * * *
 ## Awards, Grants, and Scholarships
+* [ESET Women in Cybersecurity Scholarship](https://www.eset.com/us/women-in-cybersecurity-scholarship/) (2026)
 * San Diego [ARCS Scholar](https://grad.ucsd.edu/financial/fellowships/arcs-scholars/2024-arcs-scholars/katherine-izhikevich.html) via the Ellen Browning Scripps Foundation (2024-2026)
 * UCSD CSE MS to PhD Department Fellowship (2024)
 * UCSD CSE Masters Award for Excellence in Research (2024)
