@@ -32,6 +32,7 @@ Liz Izhikevich, Manda Tran, **Katherine Izhikevich**, Gautam Akiwate, Zakir Duru
 Ben Du, **Katherine Izhikevich**, Sumanth Rao, Gautam Akiwate, Cecilia Testart, Alex Snoeren, KC Claffy. [IRRegularities in the Internet Routing Registry](/assets/papers/Suspicious_IRR_Records_Final.pdf). In Proceedings of the 23rd _ACM Internet Measurement Conference_, Montréal, Canada 2023.
 
 Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu K, Malpica Serrano LM, Crits-Christoph A, Matteson NL, Zeller M, Levy JI, Wang JC, Hughes S, Lee J, Park H, Park MS, Ching Zi Yan K, Tzer Pin Lin R, Mat Isa MN, Muhammad Noor Y, Vasylyeva TI, Garry RF, Holmes EC, Rambaut A, Suchard MA, Andersen KG, Worobey M, Wertheim JO (2022). ["The molecular epidemiology of multiple zoonotic origins of SARS-CoV-2."](https://www.science.org/doi/10.1126/science.abp8337) *Science*. DOI: 10.1126/science.abp8337
+> **Coverage:** [CNN](https://www.cnn.com/2022/07/26/health/wuhan-market-covid-19/index.html), [CNN (Feb.)](https://www.cnn.com/2022/02/26/health/coronavirus-origins-studies/index.html), [Washington Post](https://www.washingtonpost.com/science/2022/07/26/coronavirus-origin-wuhan-market/), [BBC](https://www.bbc.com/news/science-environment-62307383), [New York Times](https://www.nytimes.com/interactive/2022/02/26/science/covid-virus-wuhan-origins.html), [Nature](https://www.nature.com/articles/d41586-022-00584-8)
 
 **Katherine Izhikevich**, Kyeling Ong, and Christine Alvarado. 2022. [Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience.](/assets/papers/groupdynamicsicer2022.pdf) In Proceedings of the 18th _ACM International Computing Education Research_, Lugano, Switzerland, 2022.
 
@@ -41,7 +42,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 
 * * *
 ## Pre-prints
-- Rahul Tripathi, **Katherine Izhikevich**, Sai Chaparala, Manan Patel, Samvrit Srinath, Eric Zhou, Ben Du, Liz Izhikevich. [IPHints: Inferring and Categorizing Customers of Internet Services](/assets/papers/IPHints.pdf). Under Submission.
+**Katherine Izhikevich**, Ben Du, Manda Tran, Sumanth Rao, Alisha Ukani, Ray Bellis, Liz Izhikevich. [Rooting Out Incorrect RIPE Atlas Probe Geolocations](/assets/papers/ripe_paper.pdf). Under Submission.
+
+Rahul Tripathi, **Katherine Izhikevich**, Sai Chaparala, Manan Patel, Samvrit Srinath, Eric Zhou, Ben Du, Liz Izhikevich. [IPHints: Inferring and Categorizing Customers of Internet Services](/assets/papers/IPHints.pdf). Under Submission.
 
 * * *
 ## Service
@@ -65,6 +68,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 ## Awards, Grants, and Scholarships
 * [ESET Women in Cybersecurity Scholarship](https://www.eset.com/us/women-in-cybersecurity-scholarship/) (2026)
 * San Diego [ARCS Scholar](https://grad.ucsd.edu/financial/fellowships/arcs-scholars/2024-arcs-scholars/katherine-izhikevich.html) via the Ellen Browning Scripps Foundation (2024-2026)
+* UCSD Grad Slam Finalist (2025)
 * UCSD CSE MS to PhD Department Fellowship (2024)
 * UCSD CSE Masters Award for Excellence in Research (2024)
 * *Stephen L. Squires Scholar* from [ACSA and CRA](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023)
@@ -85,14 +89,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAA
 * Mentor for *EmpowHer*, an all-female high school Hackathon (2020-21)
 
 * * * 
-## In the news
-
-* CNN: [New studies agree that animals sold at Wuhan market are most likely what started Covid-19 pandemic](https://www.cnn.com/2022/07/26/health/wuhan-market-covid-19/index.html) and [Studies offer further evidence that the coronavirus pandemic began in animals in Wuhan market](https://www.cnn.com/2022/02/26/health/coronavirus-origins-studies/index.html)
-* Washington Post: [Scientists hone argument that coronavirus came from Wuhan market](https://www.washingtonpost.com/science/2022/07/26/coronavirus-origin-wuhan-market/)
-* BBC: [Covid origin studies say evidence points to Wuhan market](https://www.bbc.com/news/science-environment-62307383)
-* NYTimes: [New Research Points to Wuhan Market as Pandemic Origin](https://www.nytimes.com/interactive/2022/02/26/science/covid-virus-wuhan-origins.html)
-* Nature: [Wuhan market was epicentre of pandemic’s start, studies suggest](https://www.nature.com/articles/d41586-022-00584-8)
-
+## Talks
+* To appear at Healthcare Summit @ black hat
+* [Grad Slam Finalist 2025](https://www.youtube.com/watch?v=6gmPae-DXco)
 
 * * *
 ## Photo Gallery
