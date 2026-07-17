@@ -92,7 +92,3 @@ Rahul Tripathi, **Katherine Izhikevich**, Sai Chaparala, Manan Patel, Samvrit Sr
 ## Talks
 * To appear at Healthcare Summit @ black hat
 * [Grad Slam Finalist 2025](https://www.youtube.com/watch?v=6gmPae-DXco)
-
-* * *
-## Photo Gallery
-{% include gallery layout='third' %}
