@@ -23,7 +23,7 @@ I am a Ph.D. student in the Computer Science Department at UC San Diego, where I
 
 **Katherine Izhikevich**, Ben Du, Manda Tran, Sumanth Rao, Alisha Ukani, Ray Bellis, Liz Izhikevich. [Rooting Out Incorrect RIPE Atlas Probe Geolocations](/assets/papers/ripe_paper.pdf). In Proceedings of the 26th _ACM Internet Measurement Conference_, Karlsruhe, Germany 2026.
 
-Alisha Ukani, Ross Greer, **Katherine Izhikevich**, Earlence Fernandes, Alex C. Snoeren, and Stefan Savage. [WarrInt: Integrity Validation for Criminal Legal Process](). In Proceedings of the 35th _USENIX Security Symposium_, Baltimore, MD, August 2026.
+Alisha Ukani, Ross Greer, **Katherine Izhikevich**, Earlence Fernandes, Alex C. Snoeren, and Stefan Savage. [WarrInt: Integrity Validation for Criminal Legal Process](). In Proceedings of the 35th _USENIX Security Symposium_, Baltimore, MD, August 2026. (**Distinguished Paper Runner-Up**)
 
 Vrishan Inukollu, Porfirio Montoya, Ross Greer, Alisha Ukani, **Katherine Izhikevich**, Earlence Fernandes, Stefan Savage, and Alex C. Snoeren. [Countering Fabricated Legal Documents: Aligning Verification Attention to Salient Objects through Zero-Shot Detection of Confounding or Obscuring Symbols](). In Proceedings of the _From Perception to Persuasion: Challenges and Advances in Misinformation Detection in Society Workshop at the Computer Vision and Pattern Recognition Conference_, Denver, CO, June 2026.
 
@@ -69,7 +69,7 @@ Rahul Tripathi, **Katherine Izhikevich**, Sai Chaparala, Manan Patel, Samvrit Sr
 ## Awards, Grants, and Scholarships
 * [ESET Women in Cybersecurity Scholarship](https://www.eset.com/us/women-in-cybersecurity-scholarship/) (2026)
 * San Diego [ARCS Scholar](https://grad.ucsd.edu/financial/fellowships/arcs-scholars/2024-arcs-scholars/katherine-izhikevich.html) via the Ellen Browning Scripps Foundation (2024-2026)
-* UCSD Grad Slam Finalist (2025)
+* [UCSD Grad Slam Finalist](https://today.ucsd.edu/story/from-ocean-predators-to-ancient-viruses-grad-slam-and-postdoc-pitch-winners-announced) (2025)
 * UCSD CSE MS to PhD Department Fellowship (2024)
 * UCSD CSE Masters Award for Excellence in Research (2024)
 * *Stephen L. Squires Scholar* from [ACSA and CRA](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/#SWSIS-Award-Recipients) (2023)
@@ -91,5 +91,8 @@ Rahul Tripathi, **Katherine Izhikevich**, Sai Chaparala, Manan Patel, Samvrit Sr
 
 * * * 
 ## Talks
-* To appear at Healthcare Summit @ black hat
+* To appear at Healthcare Innovation Summit in San Diego
+* Healthcare Summit @ black hat
 * [Grad Slam Finalist 2025](https://www.youtube.com/watch?v=6gmPae-DXco)
+
+* * * 
