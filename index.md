@@ -23,7 +23,7 @@ I am a Ph.D. student in the Computer Science Department at UC San Diego, where I
 
 **Katherine Izhikevich**, Ben Du, Manda Tran, Sumanth Rao, Alisha Ukani, Ray Bellis, Liz Izhikevich. [Rooting Out Incorrect RIPE Atlas Probe Geolocations](/assets/papers/ripe_paper.pdf). In Proceedings of the 26th _ACM Internet Measurement Conference_, Karlsruhe, Germany 2026.
 
-Alisha Ukani, Ross Greer, **Katherine Izhikevich**, Earlence Fernandes, Alex C. Snoeren, and Stefan Savage. [WarrInt: Integrity Validation for Criminal Legal Process](). In Proceedings of the 35th _USENIX Security Symposium_, Baltimore, MD, August 2026. (**Distinguished Paper Runner-Up**)
+Alisha Ukani, Ross Greer, **Katherine Izhikevich**, Earlence Fernandes, Alex C. Snoeren, and Stefan Savage. [WarrInt: Integrity Validation for Criminal Legal Process](/assets/papers/warrInt-small.pdf). In Proceedings of the 35th _USENIX Security Symposium_, Baltimore, MD, August 2026. (**Distinguished Paper Runner-Up**)
 
 Vrishan Inukollu, Porfirio Montoya, Ross Greer, Alisha Ukani, **Katherine Izhikevich**, Earlence Fernandes, Stefan Savage, and Alex C. Snoeren. [Countering Fabricated Legal Documents: Aligning Verification Attention to Salient Objects through Zero-Shot Detection of Confounding or Obscuring Symbols](). In Proceedings of the _From Perception to Persuasion: Challenges and Advances in Misinformation Detection in Society Workshop at the Computer Vision and Pattern Recognition Conference_, Denver, CO, June 2026.
 
