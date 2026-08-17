@@ -49,6 +49,7 @@ Rahul Tripathi, **Katherine Izhikevich**, Sai Chaparala, Manan Patel, Samvrit Sr
 
 * * *
 ## Service
+- USENIX Security 2027 Program Committee
 - USENIX Security 2026 Program Committee
 - UCSD Graduate Student Council & GradCom student representative 
 - IEEE European Symposium on Security and Privacy 2025 Program Committee
