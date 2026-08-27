@@ -49,7 +49,7 @@ Rahul Tripathi, **Katherine Izhikevich**, Sai Chaparala, Manan Patel, Samvrit Sr
 
 * * *
 ## Service
-- USENIX Security 2026,2027 Program Committee
+- USENIX Security 2026, 2027 Program Committee
 - UCSD Graduate Student Council & GradCom student representative 
 - IEEE European Symposium on Security and Privacy 2025 Program Committee
   
@@ -68,7 +68,7 @@ Rahul Tripathi, **Katherine Izhikevich**, Sai Chaparala, Manan Patel, Samvrit Sr
 * * *
 ## Awards, Grants, and Scholarships
 * [ESET Women in Cybersecurity Scholarship](https://www.eset.com/us/women-in-cybersecurity-scholarship/) (2026)
-* San Diego [ARCS Scholar](https://grad.ucsd.edu/financial/fellowships/arcs-scholars/2024-arcs-scholars/katherine-izhikevich.html) via the Ellen Browning Scripps Foundation (2024-2026)
+* San Diego [ARCS Scholar](https://grad.ucsd.edu/financial/fellowships/arcs-scholars/2024-arcs-scholars/katherine-izhikevich.html) via the Ellen Browning Scripps Foundation (2024-2027)
 * [UCSD Grad Slam Finalist](https://today.ucsd.edu/story/from-ocean-predators-to-ancient-viruses-grad-slam-and-postdoc-pitch-winners-announced) (2025)
 * UCSD CSE MS to PhD Department Fellowship (2024)
 * UCSD CSE Masters Award for Excellence in Research (2024)
@@ -91,8 +91,8 @@ Rahul Tripathi, **Katherine Izhikevich**, Sai Chaparala, Manan Patel, Samvrit Sr
 
 * * * 
 ## Talks
-* To appear at Healthcare Innovation Summit in San Diego
-* Healthcare Summit @ black hat
+* To appear at [San Diego Healthcare Innovation Summit 2026](https://www.hisummits.com/san-diego26/speakers)
+* [Healthcare Summit @ black hat 2026](https://blackhat.com/us-26/summit-sessions/schedule/speakers.html)
 * [Grad Slam Finalist 2025](https://www.youtube.com/watch?v=6gmPae-DXco)
 
 * * * 
