@@ -23,11 +23,15 @@ I am a Ph.D. student in the Computer Science Department at UC San Diego, where I
 
 **Katherine Izhikevich**, Ben Du, Manda Tran, Sumanth Rao, Alisha Ukani, Ray Bellis, Liz Izhikevich. [Rooting Out Incorrect RIPE Atlas Probe Geolocations](/assets/papers/ripe_paper.pdf). In Proceedings of the 26th _ACM Internet Measurement Conference_, Karlsruhe, Germany 2026.
 
+> 🌐 [Website](https://kizhikevich.github.io/violating_ripe_probes/) · 💻 [GitHub](https://github.com/kizhikevich/violating_ripe_probes)
+
 Alisha Ukani, Ross Greer, **Katherine Izhikevich**, Earlence Fernandes, Alex C. Snoeren, and Stefan Savage. [WarrInt: Integrity Validation for Criminal Legal Process](/assets/papers/warrInt-small.pdf). In Proceedings of the 35th _USENIX Security Symposium_, Baltimore, MD, August 2026. (**Distinguished Paper Runner-Up**)
 
 Vrishan Inukollu, Porfirio Montoya, Ross Greer, Alisha Ukani, **Katherine Izhikevich**, Earlence Fernandes, Stefan Savage, and Alex C. Snoeren. [Countering Fabricated Legal Documents: Aligning Verification Attention to Salient Objects through Zero-Shot Detection of Confounding or Obscuring Symbols](). In Proceedings of the _From Perception to Persuasion: Challenges and Advances in Misinformation Detection in Society Workshop at the Computer Vision and Pattern Recognition Conference_, Denver, CO, June 2026.
 
 **Katherine Izhikevich**, Geoffrey M. Voelker, Stefan Savage, Liz Izhikevich. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/Honeybuckets.pdf).  In Proceedings of the 9th _IEEE European Symposium on Security and Privacy_, Vienna, Austria, July 2024.
+
+> 💻 [GitHub](https://github.com/kizhikevich/honeybuckets)
 
 Liz Izhikevich, Manda Tran, **Katherine Izhikevich**, Gautam Akiwate, Zakir Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/finalLEO_HitchHiking.pdf). In Proceedings of the 50th _ACM SIGMETRICS_, Venice, Italy, June 2024.
 
@@ -39,6 +43,8 @@ Pekar JE, Magee A, Parker E, Moshiri N, **Izhikevich K**, Havens JL, Gangavarapu
 **Katherine Izhikevich**, Kyeling Ong, and Christine Alvarado. 2022. [Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience.](/assets/papers/groupdynamicsicer2022.pdf) In Proceedings of the 18th _ACM International Computing Education Research_, Lugano, Switzerland, 2022.
 
 Maya Ziv, Liz Izhikevich, Kimberly Ruth, **Katherine Izhikevich**, Zakir Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/finalASdb.pdf). In Proceedings of the 21st _ACM Internet Measurement Conference_, Virtual, 2021.
+
+> 🌐 [Website](https://asdb.stanford.edu/dashboard)
 
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=SpNMl4kAAAAJ) for more info.
 
