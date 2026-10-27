@@ -97,7 +97,8 @@ Rahul Tripathi, **Katherine Izhikevich**, Sai Chaparala, Manan Patel, Samvrit Sr
 
 * * * 
 ## Talks
-* To appear at [San Diego Healthcare Innovation Summit 2026](https://www.hisummits.com/san-diego26/speakers)
+* [Ripe93 in Sofia, Bulgaria](https://ripe93.ripe.net/programme/meeting-plan/sessions/136/99HGKD/)
+* [San Diego Healthcare Innovation Summit 2026](https://www.hisummits.com/san-diego26/speakers)
 * [Healthcare Summit @ black hat 2026](https://blackhat.com/us-26/summit-sessions/schedule/speakers.html)
 * [Grad Slam Finalist 2025](https://www.youtube.com/watch?v=6gmPae-DXco)
 
